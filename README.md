@@ -3,7 +3,7 @@
 I scanned over the accepted paper lists of top machine learning and data mining conferences for interests in graph learning. If you are interested in dynamic (temporal) graph learning, please refer to [Dynamic (Temporal) Graph Learning Reading List](https://github.com/doujiang-zheng/Dynamic-Temporal-Graph-Learning-Reading-List).
 
 - Table of Contents
-  - [IJCAI-2022](#ijcai-2022-45) [ICML-2022](#icml-2022-47) [KDD-2022](#kdd-2022-45)
+  - [IJCAI-2022](#ijcai-2022-45) [ICML-2022](#icml-2022-47) [KDD-2022](#kdd-2022-45) [SIGIR-2022](#sigir-2022-28) [NeurIPS-2022](#neurips-2022-75)
 
   - [IJCAI-2019](#ijcai-2019-20) [ICML-2019](#icml-2019-15) [KDD-2019](#kdd-2019-19)
 
@@ -157,6 +157,119 @@ I scanned over the accepted paper lists of top machine learning and data mining 
     <li> GPPT: Graph Pre-training and Prompt Tuning to Generalize Graph Neural Networks </li> 
     <li> Motif Prediction with Graph Neural Networks </li> 
     <li> Knowledge-Guided Pre-training of Graph Transformer for Molecular Property Prediction </li> 
+</details>
+
+### SIGIR-2022 (28)
+<details>
+  <summary></summary>
+  <li> Hybrid Transformer with Multi-level Fusion for Multimodal Knowledge Graph Completion </li>
+  <li> Hierarchical Multi-Task Graph Recurrent Network for Next POI Recommendation </li>
+  <li> Personalized Fashion Compatibility Modeling via Metapath-guided Heterogeneous Graph Learning </li>
+  <li> Post Processing Recommender Systems with Knowledge Graphs for Recency, Popularity, and Diversity of Explanations </li>
+  <li> A Review-aware Graph Contrastive Learning Framework for Recommendation </li>
+  <li> Are Graph Augmentations Necessary? Simple Graph Contrastive Learning for Recommendation </li>
+  <li> Knowledge Graph Contrastive Learning for Recommendation </li>
+  <li> An Attribute-Driven Mirroring Graph Network for Session-based Recommendation </li>
+  <li> Self-Augmented Recommendation with Hypergraph Contrastive Collaborative Filtering </li>
+  <li> Incorporating Context Graph with Logical Reasoning for Inductive Relation Prediction </li>
+  <li> Investigating Accuracy-Novelty Performance for Graph-based Collaborative Filtering </li>
+  <li> DAWAR: Diversity-aware Web APIs Recommendation for Mashup Creation based on Correlation Graph </li>
+  <li> AutoGSR: Neural Architecture Search for Graph-based Session Recommendation </li>
+  <li> Learning Graph-based Disentangled Representations for Next POI Recommendation </li>
+  <li> Graph Adaptive Semantic Transfer for Cross-domain Sentiment Classification </li>
+  <li> Few-shot Node Classification on Attributed Networks with Graph Meta-learning </li>
+  <li> Learning to Denoise Unreliable Interactions for Graph Collaborative Filtering </li>
+  <li> Neighbour Interaction based Click-Through Rate Prediction via Graph-masked Transformer </li>
+  <li> Graph Trend Filtering Networks for Recommendation </li>
+  <li> Co-clustering Interactions via Attentive Hypergraph Neural Network </li>
+  <li> Less is More: Reweighting Important Spectral Graph Features for Recommendation </li>
+  <li> Adversarial Graph Perturbations for Recommendations at Scale </li>
+  <li> Enhancing Hypergraph Neural Networks with Intent Disentanglement for Session-based Recommendation </li>
+  <li> Distilling Knowledge on Text Graph for Social Media Attribute Inference </li>
+  <li> DH-HGCN: Dual Homogeneity Hypergraph Convolutional Network for Multiple Social Recommendations </li>
+  <li> DisenCTR: Dynamic Graph-based Disentangled Representation for Click-Through Rate Prediction </li>
+  <li> Assessing Scientific Research Papers with Knowledge Graphs </li>
+  <li> LightSGCN: Powering Signed Graph Convolution Network for Link Sign Prediction with Simplified Architecture Design </li>
+</details>
+  
+### NeurIPS-2022 (75)
+<details>
+  <summary></summary>
+  <li> Parameter-free Dynamic Graph Embedding for Link Prediction </li>
+  <li> Rethinking Knowledge Graph Evaluation Under the Open-World Assumption </li>
+  <li> NAS-Bench-Graph: Benchmarking Graph Neural Architecture Search </li>
+  <li> TwiBot-22: Towards Graph-Based Twitter Bot Detection </li>
+  <li> Decoupled Self-supervised Learning for Non-Homophilous Graphs </li>
+  <li> A Comprehensive Study on Large-Scale Graph Training: Benchmarking and Rethinking </li>
+  <li> Revisiting Graph Contrastive Learning from the Perspective of Graph Spectrum </li>
+  <li> Learning Causally Invariant Representations for Out-of-Distribution Generalization on Graphs </li>
+  <li> DGraph: A Large-scale Financial Dataset for Graph Anomaly Detection </li>
+  <li> Hierarchical Graph Transformer with Adaptive Node Sampling </li>
+  <li> Learning Invariant Graph Representations Under Distribution Shifts </li>
+  <li> What Makes Graph Neural Networks Miscalibrated? </li>
+  <li> Knowledge Distillation Improves Graph Structure Augmentation for Graph Neural Networks </li>
+  <li> Equivariant Graph Hierarchy-based Neural Networks </li>
+  <li> Efficient Graph Similarity Computation with Alignment Regularization </li>
+  <li> Learning Physical Dynamics with Subequivariant Graph Neural Networks </li>
+  <li> Machine Learning on Graphs: A Model and Comprehensive Taxonomy </li>
+  <li> Dynamic Graph Neural Networks Under Spatio-Temporal Distribution Shift </li>
+  <li> EvenNet: Ignoring Odd-Hop Neighbors Improves Robustness of Graph Neural Networks </li>
+  <li> OOD Link Prediction Generalization Capabilities of Message-Passing GNNs in Larger Test Graphs </li>
+  <li> Self-supervised Heterogeneous Graphs Pre-training Based on Structural Clustering </li>
+  <li> Debiasing Graph Neural Networks via Learning Disentangled Causal Structure </li>
+  <li> Label-Invariant Augmentation for Semi-supervised Graph Classification </li>
+  <li> Redundancy-Free Message Passing for Graph Neural Networks </li>
+  <li> Graph Few-shot Learning with Task-specific Structures </li>
+  <li> Co-modality Imbalanced Graph Contrastive Learning </li>
+  <li> Task-agnostic Graph Explanations </li>
+  <li> SHINE: SubHypergraph Inductive Neural Network </li>
+  <li> Sparse Hypergraph Community Detection Thresholds in Stochastic Block Model </li>
+  <li> SizeShiftReg: A Regularization Method for Improving Size-Generalization in Graph Neural Networks </li>
+  <li> Ordered Subgraph Aggregation Networks </li>
+  <li> CLEAR: Generative Counterfactural Explanations on Graphs </li>
+  <li> Uncovering the Structural Fairness in Graph Contrastive Learning </li>
+  <li> Graph Convolution Network based Recommender Systems: Learning Guarantee and Item Mixture Powered Strategy </li>
+  <li> Graph Neural Networks with Adaptive Readouts </li>
+  <li> MGNNI: Multiscale Graph Neural Networks with Implicit Layers </li>
+  <li> Evaluating Graph Genrative Models with Contrastively Learned Features </li>
+  <li> Dual-discriminative Graph Neural Network for Imbalanced Graph-level Anomaly Detection </li>
+  <li> Provably expressive temporal graph networks </li>
+  <li> GOOD: A Graph Out-of-Distribution Benchmark </li>
+  <li> The Dollar Street Dataset: Images Representing the Geographic and Socioeconomic Diversity of the World </li>
+  <li> Learning to Navigate Wikipedia with Graph Diffusion Models </li>
+  <li> Graph Self-supervised Learning with Accurate Discrepancy Learning </li>
+  <li> Learning to Sample and Aggregate: Few-shot Reasoning over Temporal Knowledge Graph </li>
+  <li> Learning Bipartite Graphs: Heavy Tails and Multiple Components </li>
+  <li> Learning to Reconstruct Missing Data from Spatiotemporal Graphs with Sparse Observations </li>
+  <li> Large-Scale Differentiable Causal Discovery of Factor Graphs </li>
+  <li> Symmetry-induced Disentanglement on Graphs </li>
+  <li> An efficient graph generative model for navigating ultra-large combinatorial synthesis libraries </li>
+  <li> Recipe for a General, Powerful, Scalable Graph Transformer </li>
+  <li> Learning on the Edge: Online Learning with Stochastic Feedback Graphs </li>
+  <li> Graph Edit Networks </li>
+  <li> Contrastive Graph Structure Learning via Information Bottleneck for Recommendation </li>
+  <li> Towards Debiased Learning and Out-of-Distribution Detection for Graph Data </li>
+  <li> Counterfactual Fairness with Partially Known Causal Graphs </li>
+  <li> On the Robustness of Graph Neural Diffusion </li>
+  <li> Multivariate Time-Series Forecasting with Temporal Polynomial Graph Neural Networks </li>
+  <li> Understanding Self-Supervised Graph Representation Learning from a Data-Centric Perspective </li>
+  <li> Association Graph Learning for Multi-Task Classification with Category Shifts </li>
+  <li> High-order Pooling for Graph Neural Networks with Tensor Decomposition </li>
+  <li> Rethinking and Scaling Up Graph Contrastive Learning: An Extremely Efficient Approach with Group Discrimination </li>
+  <li> Neural Temporal Walks: Motif-Aware Representation Learning on Continuous-Time Dynamic Graphs </li>
+  <li> Explaining Graph Neural Networks with Structure-Aware Cooperative Games </li>
+  <li> Pure Transformers are Powerful Graph Learners </li>
+  <li> Geometric Distillation for Graph Networks </li>
+  <li> Deep Generative Model for Periodic Graphs </li>
+  <li> Periodic Graph Transformers for Crystal Material Property Prediction </li>
+  <li> Revisiting Heterophily For Graph Neural Networks </li>
+  <li> Graph Neural Networks are Dynamic Programmers </li>
+  <li> Zero-shot Transfer Learning on Heterogeneous Graphs via Knowledge Transfer Networks </li>
+  <li> Stars: Tera-Scale Graph Building for Clustering and Learning </li>
+  <li> Are Defenses for Graph Neural Networks Robust? </li>
+  <li> CGLB: Benchmark Tasks for Continual Graph Learning </li>
+  <li> BOND: Benchmarking Unsupervised Outlier Node Detection on Static Attributed Graphs </li>
+  <li> Long Range Graph Benchmark </li>
 </details>
 
 ### IJCAI-2019 (20)
