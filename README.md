@@ -187,19 +187,19 @@ I scanned over the accepted paper lists of top machine learning and data mining 
 ### ICML-2019 (15)
 <details>
     <summary></summary>
-    <li> Self-Attention Graph Pooling </li>
-    <li> Graph U-Nets </li>
+    <li>  Self-Attention Graph Pooling </li>
+    <li>  Graph U-Nets </li>
     <li>  Adversarial Attacks on Node Embeddings via Graph Poisoning </li>
     <li>  Simplifying Graph Convolutional Networks </li>
-    <li>  MixHop: High<li>Order Graph Convolutional Architectures via Sparsified Neighborhood Mixing </li>
-    <li>  Position<li>aware Graph Neural Networks </li>
+    <li>  MixHop: High-Order Graph Convolutional Architectures via Sparsified Neighborhood Mixing </li>
+    <li>  Position-aware Graph Neural Networks </li>
     <li>  Relational Pooling for Graph Representations </li>
     <li>  Disentangled Graph Convolutional Network </li>
     <li>  Learning Discrete Structures for Graph Neural Networks </li>
     <li>  Stochastic Blockmodels meet Graph Neural Networks </li>
     <li>  Graphite: Iterative Generative Modeling of Graphs </li>
-    <li>  Ego<li>CNN: Distributed, Egocentric Representations of Graphs for Detecting Critical Structures </li>
-    <li>  Learning to Exploit Long<li>term Relational Dependencies in Knowledge Graphs </li>
+    <li>  Ego-CNN: Distributed, Egocentric Representations of Graphs for Detecting Critical Structures </li>
+    <li>  Learning to Exploit Long-term Relational Dependencies in Knowledge Graphs </li>
     <li>  Spectral Clustering of Signed Graphs via Matrix Power Means </li>
     <li>  Random Walks on Hypergraphs with Edge<li>Dependent Vertex Weights </li>
 </details>
