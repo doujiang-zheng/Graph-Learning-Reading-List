@@ -3,9 +3,88 @@
 I scanned over the accepted paper lists of top machine learning and data mining conferences for interests in graph learning. If you are interested in dynamic (temporal) graph learning, please refer to [Dynamic (Temporal) Graph Learning Reading List](https://github.com/doujiang-zheng/Dynamic-Temporal-Graph-Learning-Reading-List).
 
 - Table of Contents
+  - [WWW-2023](#www-2023-72)
   - [IJCAI-2022](#ijcai-2022-45) [ICML-2022](#icml-2022-47) [KDD-2022](#kdd-2022-45) [SIGIR-2022](#sigir-2022-28) [NeurIPS-2022](#neurips-2022-75)
 
   - [IJCAI-2019](#ijcai-2019-20) [ICML-2019](#icml-2019-15) [KDD-2019](#kdd-2019-19)
+
+### WWW-2023 (72)
+<details>
+  <summary></summary>
+  <li> Submodular Maximization in the Presence of Biases with Applications to Recommendation </li> 
+  <li> Scoping Fairness Objectives and Identifying Fairness Metrics for Recommender Systems: The Practitioners’ Perspective </li>
+  <li> P-MMF: Provider Max-min Fairness Re-ranking in Recommender System </li>
+  <li> Fairly Adaptive Negative Sampling for Recommendations </li>
+  <li> RL-MPCA: A Reinforcement Learning Based Multi-Phase Computation Allocation Approach for Recommender Systems </li>
+  <li> Collaboration-Aware Graph Convolutional Network for Recommender Systems </li>
+  <li> Enhancing Hierarchy-Aware Graph Networks with Deep Dual Clustering for Session-based Recommendation </li>
+  <li> ConsRec: Learning Consensus Behind Interactions for Group Recommendation </li>
+  <li> Semi-decentralized Federated Ego Graph Learning for Recommendation </li>
+  <li> Joint Internal Multi-Interest Exploration and External Domain Alignment for Cross Domain Sequential Recommendation </li>
+  <li> Intra and Inter Domain HyperGraph Convolutional Network for Cross-Domain Recommendation </li>
+  <li> Dual Intent Enhanced Graph Neural Network for Session-based New Item Recommendation </li>
+  <li> ApeGNN: Node-Wise Adaptive Aggregation in GNNs for Recommendation </li>
+  <li> Enhancing User Personalization in Conversational Recommenders </li>
+  <li> LINet: A Location and Intention-Aware Neural Network for Hotel Group Recommendation </li>
+  <li> Multi-Modal Adversarial Self-Supervised Learning for Recommendation </li>
+  <li> Distillation from Heterogeneous Models for Top-K Recommendation </li>
+  <li> On the Theories Behind Hard Negative Sampling for Recommendation </li>
+  <li> Fine-tuning Partition-aware Item Similarities for Efficient and Scalable Recommendation </li>
+  <li> Exploration and Regularization of the Latent Action Space in Recommendation </li>
+  <li> Bootstrap Latent Representations for Multi-modal Recommendation </li>
+  <li> Two-Stage Constrained Actor-Critic for Short Video Recommendation </li>
+  <li> Recommendation with Causality enhanced Natural Language Explanations </li>
+  <li> Cross-domain recommendation via user interest alignment </li>
+  <li> A Simple Data-Augmented Framework For Smoothed Recommender System </li>
+  <li> Dual-interest Factorization-heads Attention for Sequential Recommendation </li>
+  <li> Contrastive Collaborative Filtering for Cold-Start Item Recommendation </li>
+  <li> Anti-FakeU: Defending Shilling Attacks on Graph Neural Network based Recommender Model </li>
+  <li> Compressed Interaction Graph based Framework for Multi-behavior Recommendation </li>
+  <li> A Counterfactual Collaborative Session-based Recommender System </li>
+  <li> Correlative Preference Transfer with Hierarchical Hypergraph Network for Multi-Domain Recommendation </li>
+  <li> Automated Self-Supervised Learning for Recommendation with Masked Graph Transformer </li>
+  <li> Improving Recommendation Fairness via Data Augmentation </li>
+  <li> ColdNAS: Search to Modulate for User Cold-Start Recommendation </li>
+  <li> AutoS2AE: Automate to Regularize Sparse Shallow Autoencoders for Recommendation </li>
+  <li> Quantize Sequential Recommenders Without Private Data </li>
+  <li> Interaction-level Membership Inference Attack Against Federated Recommender Systems </li>
+  <li> Contrastive Learning with Interest and Conformity Disentanglement for Sequential Recommendation </li>
+  <li> Clustered Embedding Learning for Large-scale Recommender Systems </li>
+  <li> Adap-: Adpatively Modulating Embedding Magnitude for Recommendation </li>
+  <li> Robust Preference-Guided Denoising for Graph based Social Recommendation </li>
+  <li> MMMLP: Multi-modal Multilayer Perceptron for sequence recommendation </li>
+  <li> Response-act Guided Reinforced Dialogue Generation for Mental Health Counseling </li>
+  <li> Few-shot News Recommendation via Cross-lingual Transfer </li>
+  <li> User Retention-oriented Recommendation with Decision Transformer </li>
+  <li> Cooperative Retriever and Ranker in Deep Recommenders </li>
+  <li> Learning Vector-Quantized Item Representation for Transferable Sequential Recommenders </li>
+  <li> Learning Vector-Quantized Item Representation for Transferable Sequential Recommenders </li>
+  <li> Show Me The Best Outfit for A Certain Scene: A Scene-aware Fashion Recommender System </li>
+  <li> Multi-Behavior Recommendation with Cascading Graph Convolutional Network </li>
+  <li> AutoMLP: Automated MLP for Sequential Recommendations </li>
+  <li> NASRec: Weight Sharing Neural Architecture Search for Recommender Systems </li>
+  <li> Membership Inference Attacks Against Sequential Recommender Systems </li>
+  <li> Communicative MARL-based Relevance Discerning Network for Repetition-Aware Recommendation </li>
+  <li> Invariant Collaborative Filtering to Popularity Distribution Shift </li>
+  <li> Modeling Temporal Positive and Negative Excitation for Sequential Recommendation </li>
+  <li> Personalized Graph Signal Processing for Collaborative Filtering </li>
+  <li> Multi-Task Recommendations with Reinforcement Learning </li>
+  <li> A Self-Correcting Sequential Recommender </li>
+  <li> Cross-domain Recommendation with Behavioral Importance Perception </li>
+  <li> Balancing Unobserved Confounding with a Few Unbiased Ratings in Debiased Recommendations </li>
+  <li> Code Recommendation for Open Source Software Developers </li>
+  <li> Denoising and Prompt-Tuning for Multi-Behavior Recommendation </li>
+  <li> Mutual Wasserstein Discrepancy Minimization for Sequential Recommendation </li>
+  <li> Confident Action Decision via Hierarchical Policy Learning for Conversational Recommendation </li>
+  <li> CAMUS: Attribute-Aware Counterfactual Augmentation for Minority Users in Recommendation </li>
+  <li> Dynamically Expandable Graph Convolution for Streaming Recommendation </li>
+  <li> Dual Policy Learning for Aggregation Optimization in Recommender Systems </li>
+  <li> Automatic Feature Selection By One-Shot Neural Architecture Search In Recommendation Systems </li>
+  <li> Semi-supervised Adversarial Learning for Complementary Item Recommendation </li>
+  <li> Towards Explainable Collaborative Filtering with Taste Clusters Learning </li>
+  <li> Towards Explainable Collaborative Filtering with Taste Clusters Learning </li>
+</details>
+
 
 ### IJCAI-2022 (45)
 <details>
