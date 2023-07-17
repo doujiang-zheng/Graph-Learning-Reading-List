@@ -2,6 +2,31 @@
 
 I scanned over the accepted paper lists of top machine learning and data mining conferences for interests in graph learning. If you are interested in dynamic (temporal) graph learning, please refer to [Dynamic (Temporal) Graph Learning Reading List](https://github.com/doujiang-zheng/Dynamic-Temporal-Graph-Learning-Reading-List).
 
+## Parse website
+
+- We parse the AAAI website links using requests and BeautifulSoup in [2023-AAAI.ipynb](./2023-AAAI.ipynb). The AAI 2023 proceddings have 11 tracks, from `https://ojs.aaai.org/index.php/AAAI/issue/view/548` to `https://ojs.aaai.org/index.php/AAAI/issue/view/558`. 
+
+- We get the content as follows.
+```python
+resp = requests.get(link, proxies=proxy)
+soup = BeautifulSoup(resp.content, 'html.parser')
+```
+
+- We get the articles and their corresponding titles and authors as follows. 
+```python
+articles = soup.find_all('div', class_='obj_article_summary')
+titles, authors = [], []
+for art in tqdm(articles):
+    title = art.h3.get_text(strip=True)
+    author = art.find_all('div', class_='authors')[0].get_text(strip=True)
+    titles.append(title)
+    authors.append(author)
+```
+
+- You can parse your specific procedding type by `F12` to check the CSS style. The CSS class of `article` is `obj_article_summary`, the CSS class of `title` is `title`, and the CSS class of `author` is `authors`.
+  
+![2023 AAAI F12](./2023-AAAI-f12.png)
+
 ## [Contents](#content)
   - [IJCAI-2023](#ijcai-2023) [ICML-2023](#icml-2023) [KDD-2023](#kdd-2023) [SIGIR-2023](#sigir-2023) [AAAI-2023](#aaai-2023) [ICLR-2023](#iclr-2023) [WWW-2023](#www-2023) [ICDE-2023](#icde-2023) [SIGMOD-2023](#sigmod-2023) 
   - [IJCAI-2022](#ijcai-2022) [ICML-2022](#icml-2022)  [KDD-2022](#kdd-2022) [SIGIR-2022](#sigir-2022) [NeurIPS-2022](#neurips-2022) [AAAI-2022](#aaai-2022) [WSDM-2022](#wsdm-2022) [WWW-2022](#www-2022) [ICDE-2022](#icde-2022) [SIGMOD-2022](#sigmod-2022)
