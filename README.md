@@ -159,16 +159,16 @@ I scanned over the accepted paper lists of top machine learning and data mining 
 
     *Hongjun Wang, Jiyuan Chen, Lun Du, Qiang Fu, Shi Han, Xuan Song*
 
-### [ICML-2023](#icml-2023)
+### [ICML-2023](#contents)
 > To be continued...
 
-### [KDD-2023](#kdd-2023)
+### [KDD-2023](#contents)
 > To be continued...
 
-### [SIGIR-2023](#sigir-2023)
+### [SIGIR-2023](#contents)
 > To be continued...
 
-### [AAAI-2023](#aaai-2023)
+### [AAAI-2023](#contents)
 
 1. **Self-Supervised Graph Learning for Long-Tailed Cognitive Diagnosis**
 
