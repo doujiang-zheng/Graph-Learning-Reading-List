@@ -4,10 +4,15 @@ I scanned over the accepted paper lists of top machine learning and data mining 
 
 ## Parse website
 
-- We parse the AAAI website links using requests and BeautifulSoup in [2023-AAAI.ipynb](./2023-AAAI.ipynb). The AAI 2023 proceddings have 11 tracks, from `https://ojs.aaai.org/index.php/AAAI/issue/view/548` to `https://ojs.aaai.org/index.php/AAAI/issue/view/558`. 
+- We parse the AAAI website links using **requests** and **BeautifulSoup** in [2023-AAAI.ipynb](./2023-AAAI.ipynb). The AAI 2023 proceddings have 11 tracks, from `https://ojs.aaai.org/index.php/AAAI/issue/view/548` to `https://ojs.aaai.org/index.php/AAAI/issue/view/558`. 
 
-- We get the content as follows.
+- We get the content as follows. You can set `proxies` as `None` if your internet is OK.
 ```python
+# Define the proxy
+proxy = {
+    'http':  'socks5h://localhost:7890',
+    'https': 'socks5h://localhost:7890',
+}
 resp = requests.get(link, proxies=proxy)
 soup = BeautifulSoup(resp.content, 'html.parser')
 ```
