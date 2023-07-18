@@ -2740,299 +2740,299 @@ I scanned over the accepted paper lists of top machine learning and data mining 
 ### [IJCAI-2022](#contents)
 1. **Detecting Out-Of-Context Objects Using Graph Contextual Reasoning Network**
 
-    *Manoj Acharya, Anirban Roy, Kaushik Koneripalli, Susmit Jha, Christopher Kanan, Ajay Divakaran:*
+    *Manoj Acharya, Anirban Roy, Kaushik Koneripalli, Susmit Jha, Christopher Kanan, Ajay Divakaran*
 
 1. **Cluster Attack: Query-based Adversarial Attacks on Graph with Graph-Dependent Priors**
 
-    *Zhengyi Wang, Zhongkai Hao, Ziqiao Wang, Hang Su, Jun Zhu:*
+    *Zhengyi Wang, Zhongkai Hao, Ziqiao Wang, Hang Su, Jun Zhu*
 
 1. **Learning Graph-based Residual Aggregation Network for Group Activity Recognition**
 
-    *Wei Li, Tianzhao Yang, Xiao Wu, Zhaoquan Yuan:*
+    *Wei Li, Tianzhao Yang, Xiao Wu, Zhaoquan Yuan*
 
 1. **Hypertron: Explicit Social-Temporal Hypergraph Framework for Multi-Agent Forecasting**
 
-    *Yu Tian, Xingliang Huang, Ruigang Niu, Hongfeng Yu, Peijin Wang, Xian Sun:*
+    *Yu Tian, Xingliang Huang, Ruigang Niu, Hongfeng Yu, Peijin Wang, Xian Sun*
 
 1. **Eliminating Backdoor Triggers for Deep Neural Networks Using Attention Relation Graph Distillation**
 
-    *Jun Xia, Ting Wang, Jiepin Ding, Xian Wei, Mingsong Chen:*
+    *Jun Xia, Ting Wang, Jiepin Ding, Xian Wei, Mingsong Chen*
 
 1. **Using Constraint Programming and Graph Representation Learning for Generating Interpretable Cloud Security Policies**
 
-    *Mikhail Kazdagli, Mohit Tiwari, Akshat Kumar:*
+    *Mikhail Kazdagli, Mohit Tiwari, Akshat Kumar*
 
 1. **Hypergraph Structure Learning for Hypergraph Neural Networks**
 
-    *Derun Cai, Moxian Song, Chenxi Sun, Baofeng Zhang, Shenda Hong, Hongyan Li:*
+    *Derun Cai, Moxian Song, Chenxi Sun, Baofeng Zhang, Shenda Hong, Hongyan Li*
 
 1. **Entity Alignment with Reliable Path Reasoning and Relation-aware Heterogeneous Graph Transformer**
 
-    *Weishan Cai, Wenjun Ma, Jieyu Zhan, Yuncheng Jiang:*
+    *Weishan Cai, Wenjun Ma, Jieyu Zhan, Yuncheng Jiang*
 
 1. **Can Abnormality be Detected by Graph Neural Networks**
 
-    *Ziwei Chai, Siqi You, Yang Yang, Shiliang Pu, Jiarong Xu, Haoyang Cai, Weihao Jiang:*
+    *Ziwei Chai, Siqi You, Yang Yang, Shiliang Pu, Jiarong Xu, Haoyang Cai, Weihao Jiang*
 
 1. **Vertically Federated Graph Neural Network for Privacy-Preserving Node Classification**
 
-    *Chaochao Chen, Jun Zhou, Longfei Zheng, Huiwen Wu, Lingjuan Lyu, Jia Wu, Bingzhe Wu, Ziqi Liu, Li Wang, Xiaolin Zheng:*
+    *Chaochao Chen, Jun Zhou, Longfei Zheng, Huiwen Wu, Lingjuan Lyu, Jia Wu, Bingzhe Wu, Ziqi Liu, Li Wang, Xiaolin Zheng*
 
 1. **Filtration-Enhanced Graph Transformation**
 
-    *Zijian Chen, Rong-Hua Li, Hongchao Qin, Huanzhong Duan, Yanxiong Lu, Qiangqiang Dai, Guoren Wang:*
+    *Zijian Chen, Rong-Hua Li, Hongchao Qin, Huanzhong Duan, Yanxiong Lu, Qiangqiang Dai, Guoren Wang*
 
 1. **Modeling Precursors for Temporal Knowledge Graph Reasoning via Auto-encoder Structure**
 
-    *Yifu Gao, Linhui Feng, Zhigang Kan, Yi Han, Linbo Qiao, Dongsheng Li:*
+    *Yifu Gao, Linhui Feng, Zhigang Kan, Yi Han, Linbo Qiao, Dongsheng Li*
 
 1. **Self-supervised Graph Neural Networks for Multi-behavior Recommendation**
 
-    *Shuyun Gu, Xiao Wang, Chuan Shi, Ding Xiao:*
+    *Shuyun Gu, Xiao Wang, Chuan Shi, Ding Xiao*
 
 1. **MERIT: Learning Multi-level Representations on Temporal Graphs**
 
-    *Binbin Hu, Zhengwei Wu, Jun Zhou, Ziqi Liu, Zhigang Huangfu, Zhiqiang Zhang, Chaochao Chen:*
+    *Binbin Hu, Zhengwei Wu, Jun Zhou, Ziqi Liu, Zhigang Huangfu, Zhiqiang Zhang, Chaochao Chen*
 
 1. **GraphDIVE: Graph Classification by Mixture of Diverse Experts**
 
-    *Fenyu Hu, Liping Wang, Qiang Liu, Shu Wu, Liang Wang, Tieniu Tan:*
+    *Fenyu Hu, Liping Wang, Qiang Liu, Shu Wu, Liang Wang, Tieniu Tan*
 
 1. **A Sparse-Motif Ensemble Graph Convolutional Network against Over-smoothing**
 
-    *Xuan Jiang, Zhiyong Yang, Peisong Wen, Li Su, Qingming Huang:*
+    *Xuan Jiang, Zhiyong Yang, Peisong Wen, Li Su, Qingming Huang*
 
 1. **CGMN: A Contrastive Graph Matching Network for Self-Supervised Graph Similarity Learning**
 
-    *Di Jin, Luzhi Wang, Yizhen Zheng, Xiang Li, Fei Jiang, Wei Lin, Shirui Pan:*
+    *Di Jin, Luzhi Wang, Yizhen Zheng, Xiang Li, Fei Jiang, Wei Lin, Shirui Pan*
 
 1. **RAW-GNN: RAndom Walk Aggregation based Graph Neural Network**
 
-    *Di Jin, Rui Wang, Meng Ge, Dongxiao He, Xiang Li, Wei Lin, Weixiong Zhang:*
+    *Di Jin, Rui Wang, Meng Ge, Dongxiao He, Xiang Li, Wei Lin, Weixiong Zhang*
 
 1. **Gromov-Wasserstein Discrepancy with Local Differential Privacy for Distributed Structural Graphs**
 
-    *Hongwei Jin, Xun Chen:*
+    *Hongwei Jin, Xun Chen*
 
 1. **TGNN: A Joint Semi-supervised Framework for Graph-level Classification**
 
-    *Wei Ju, Xiao Luo, Meng Qu, Yifan Wang, Chong Chen, Minghua Deng, Xian-Sheng Hua, Ming Zhang:*
+    *Wei Ju, Xiao Luo, Meng Qu, Yifan Wang, Chong Chen, Minghua Deng, Xian-Sheng Hua, Ming Zhang*
 
 1. **TiRGN: Time-Guided Recurrent Graph Network with Local-Global Historical Patterns for Temporal Knowledge Graph Reasoning**
 
-    *Yujia Li, Shiliang Sun, Jing Zhao:*
+    *Yujia Li, Shiliang Sun, Jing Zhao*
 
 1. **Raising the Bar in Graph-level Anomaly Detection**
 
-    *Chen Qiu, Marius Kloft, Stephan Mandt, Maja Rudolph:*
+    *Chen Qiu, Marius Kloft, Stephan Mandt, Maja Rudolph*
 
 1. **Long-term Spatio-Temporal Forecasting via Dynamic Multiple-Graph Attention**
 
-    *Wei Shao, Zhiling Jin, Shuo Wang, Yufan Kang, Xiao Xiao, Hamid Menouar, Zhaofeng Zhang, Junshan Zhang, Flora D. Salim:*
+    *Wei Shao, Zhiling Jin, Shuo Wang, Yufan Kang, Xiao Xiao, Hamid Menouar, Zhaofeng Zhang, Junshan Zhang, Flora D. Salim*
 
 1. **Beyond Homophily: Structure-aware Path Aggregation Graph Neural Network**
 
-    *Yifei Sun, Haoran Deng, Yang Yang, Chunping Wang, Jiarong Xu, Renhong Huang, Linfeng Cao, Yang Wang, Lei Chen:*
+    *Yifei Sun, Haoran Deng, Yang Yang, Chunping Wang, Jiarong Xu, Renhong Huang, Linfeng Cao, Yang Wang, Lei Chen*
 
 1. **Positive-Unlabeled Learning with Adversarial Data Augmentation for Knowledge Graph Completion**
 
-    *Zhenwei Tang, Shichao Pei, Zhao Zhang, Yongchun Zhu, Fuzhen Zhuang, Robert Hoehndorf, Xiangliang Zhang:*
+    *Zhenwei Tang, Shichao Pei, Zhao Zhang, Yongchun Zhu, Fuzhen Zhuang, Robert Hoehndorf, Xiangliang Zhang*
 
 1. **Augmenting Knowledge Graphs for Better Link Prediction**
 
-    *Jiang Wang, Filip Ilievski, Pedro A. Szekely, Ke-Thia Yao:*
+    *Jiang Wang, Filip Ilievski, Pedro A. Szekely, Ke-Thia Yao*
 
 1. **FAITH: Few-Shot Graph Classification with Hierarchical Task Graphs**
 
-    *Song Wang, Yushun Dong, Xiao Huang, Chen Chen, Jundong Li:*
+    *Song Wang, Yushun Dong, Xiao Huang, Chen Chen, Jundong Li*
 
 1. **Ensemble Multi-Relational Graph Neural Networks**
 
-    *Yuling Wang, Hao Xu, Yanhua Yu, Mengdi Zhang, Zhenhao Li, Yuji Yang, Wei Wu:*
+    *Yuling Wang, Hao Xu, Yanhua Yu, Mengdi Zhang, Zhenhao Li, Yuji Yang, Wei Wu*
 
 1. **Multi-Graph Fusion Networks for Urban Region Embedding**
 
-    *Shangbin Wu, Xu Yan, Xiaoliang Fan, Shirui Pan, Shichao Zhu, Chuanpan Zheng, Ming Cheng, Cheng Wang:*
+    *Shangbin Wu, Xu Yan, Xiaoliang Fan, Shirui Pan, Shichao Zhu, Chuanpan Zheng, Ming Cheng, Cheng Wang*
 
 1. **Subgraph Neighboring Relations Infomax for Inductive Link Prediction on Knowledge Graphs**
 
-    *Xiaohan Xu, Peng Zhang, Yongquan He, Chengpeng Chao, Chaoyang Yan:*
+    *Xiaohan Xu, Peng Zhang, Yongquan He, Chengpeng Chao, Chaoyang Yan*
 
 1. **Regularized Graph Structure Learning with Semantic Knowledge for Multi-variates Time-Series Forecasting**
 
-    *Hongyuan Yu, Ting Li, Weichen Yu, Jianguo Li, Yan Huang, Liang Wang, Alex X. Liu:*
+    *Hongyuan Yu, Ting Li, Weichen Yu, Jianguo Li, Yan Huang, Liang Wang, Alex X. Liu*
 
 1. **Dynamic Graph Learning Based on Hierarchical Memory for Origin-Destination Demand Prediction**
 
-    *Ruixing Zhang, Liangzhe Han, Boyi Liu, Jiayuan Zeng, Leilei Sun:*
+    *Ruixing Zhang, Liangzhe Han, Boyi Liu, Jiayuan Zeng, Leilei Sun*
 
 1. **GRELEN: Multivariate Time Series Anomaly Detection from the Perspective of Graph Relational Learning**
 
-    *Weiqi Zhang, Chen Zhang, Fugee Tsung:*
+    *Weiqi Zhang, Chen Zhang, Fugee Tsung*
 
 1. **Enhancing Sequential Recommendation with Graph Contrastive Learning**
 
-    *Yixin Zhang, Yong Liu, Yonghui Xu, Hao Xiong, Chenyi Lei, Wei He, Lizhen Cui, Chunyan Miao:*
+    *Yixin Zhang, Yong Liu, Yonghui Xu, Hao Xiong, Chenyi Lei, Wei He, Lizhen Cui, Chunyan Miao*
 
 1. **Table2Graph: Transforming Tabular Data to Unified Weighted Graph**
 
-    *Kaixiong Zhou, Zirui Liu, Rui Chen, Li Li, Soo-Hyun Choi, Xia Hu:*
+    *Kaixiong Zhou, Zirui Liu, Rui Chen, Li Li, Soo-Hyun Choi, Xia Hu*
 
 1. **Spiking Graph Convolutional Networks**
 
-    *Zulun Zhu, Jiaying Peng, Jintang Li, Liang Chen, Qi Yu, Siqiang Luo:*
+    *Zulun Zhu, Jiaying Peng, Jintang Li, Liang Chen, Qi Yu, Siqiang Luo*
 
 1. **Data-Free Adversarial Knowledge Distillation for Graph Neural Networks**
 
-    *Yuanxin Zhuang, Lingjuan Lyu, Chuan Shi, Carl Yang, Lichao Sun:*
+    *Yuanxin Zhuang, Lingjuan Lyu, Chuan Shi, Carl Yang, Lichao Sun*
 
 1. **Proximity Enhanced Graph Neural Networks with Channel Contrast**
 
-    *Wei Zhuo, Guang Tan:*
+    *Wei Zhuo, Guang Tan*
 
 1. **Personalized Federated Learning With a Graph**
 
-    *Fengwen Chen, Guodong Long, Zonghan Wu, Tianyi Zhou, Jing Jiang:*
+    *Fengwen Chen, Guodong Long, Zonghan Wu, Tianyi Zhou, Jing Jiang*
 
 1. **Adversarial Explanations for Knowledge Graph Embeddings**
 
-    *Patrick Betz, Christian Meilicke, Heiner Stuckenschmidt:*
+    *Patrick Betz, Christian Meilicke, Heiner Stuckenschmidt*
 
 1. **Multi-view Unsupervised Graph Representation Learning**
 
-    *Jiangzhang Gan, Rongyao Hu, Mengmeng Zhan, Yujie Mo, Yingying Wan, Xiaofeng Zhu:*
+    *Jiangzhang Gan, Rongyao Hu, Mengmeng Zhan, Yujie Mo, Yingying Wan, Xiaofeng Zhu*
 
 1. **Bootstrapping Informative Graph Augmentation via A Meta Learning Approach**
 
-    *Hang Gao, Jiangmeng Li, Wenwen Qiang, Lingyu Si, Fuchun Sun, Changwen Zheng:*
+    *Hang Gao, Jiangmeng Li, Wenwen Qiang, Lingyu Si, Fuchun Sun, Changwen Zheng*
 
 1. **Attributed Graph Clustering with Dual Redundancy Reduction**
 
-    *Lei Gong, Sihang Zhou, Wenxuan Tu, Xinwang Liu:*
+    *Lei Gong, Sihang Zhou, Wenxuan Tu, Xinwang Liu*
 
 1. **Learning Continuous Graph Structure with Bilevel Programming for Graph Neural Networks**
 
-    *Minyang Hu, Hong Chang, Bingpeng Ma, Shiguang Shan:*
+    *Minyang Hu, Hong Chang, Bingpeng Ma, Shiguang Shan*
 
 1. **Type-aware Embeddings for Multi-Hop Reasoning over Knowledge Graphs**
 
-    *Zhiwei Hu, Víctor Gutiérrez-Basulto, Zhiliang Xiang, Xiaoli Li, Ru Li, Jeff Z. Pan:*
+    *Zhiwei Hu, Víctor Gutiérrez-Basulto, Zhiliang Xiang, Xiaoli Li, Ru Li, Jeff Z. Pan*
 
 1. **On the Channel Pruning using Graph Convolution Network for Convolutional Neural Network Acceleration**
 
-    *Di Jiang, Yuan Cao, Qiang Yang:*
+    *Di Jiang, Yuan Cao, Qiang Yang*
 
 1. **Graph Masked Autoencoder Enhanced Predictor for Neural Architecture Search**
 
-    *Kun Jing, Jungang Xu, Pengfei Li:*
+    *Kun Jing, Jungang Xu, Pengfei Li*
 
 1. **DyGRAIN: An Incremental Learning Framework for Dynamic Graphs**
 
-    *Seoyoon Kim, Seongjun Yun, Jaewoo Kang:*
+    *Seoyoon Kim, Seongjun Yun, Jaewoo Kang*
 
 1. **SGAT: Simplicial Graph Attention Network**
 
-    *See Hian Lee, Feng Ji, Wee Peng Tay:*
+    *See Hian Lee, Feng Ji, Wee Peng Tay*
 
 1. **Rethinking the Setting of Semi-supervised Learning on Graphs**
 
-    *Ziang Li, Ming Ding, Weikai Li, Zihan Wang, Ziyu Zeng, Yukuo Cen, Jie Tang:*
+    *Ziang Li, Ming Ding, Weikai Li, Zihan Wang, Ziyu Zeng, Yukuo Cen, Jie Tang*
 
 1. **Deep Graph Matching for Partial Label Learning**
 
-    *Gengyu Lyu, Yanan Wu, Songhe Feng:*
+    *Gengyu Lyu, Yanan Wu, Songhe Feng*
 
 1. **Escaping Feature Twist: A Variational Graph Auto-Encoder for Node Clustering**
 
-    *Nairouz Mrabah, Mohamed Bouguessa, Riadh Ksantini:*
+    *Nairouz Mrabah, Mohamed Bouguessa, Riadh Ksantini*
 
 1. **RecipeRec: A Heterogeneous Graph Learning Model for Recipe Recommendation**
 
-    *Yijun Tian, Chuxu Zhang, Zhichun Guo, Chao Huang, Ronald A. Metoyer, Nitesh V. Chawla:*
+    *Yijun Tian, Chuxu Zhang, Zhichun Guo, Chao Huang, Ronald A. Metoyer, Nitesh V. Chawla*
 
 1. **Recipe2Vec: Multi-modal Recipe Representation Learning with Graph Neural Networks**
 
-    *Yijun Tian, Chuxu Zhang, Zhichun Guo, Yihong Ma, Ronald A. Metoyer, Nitesh V. Chawla:*
+    *Yijun Tian, Chuxu Zhang, Zhichun Guo, Yihong Ma, Ronald A. Metoyer, Nitesh V. Chawla*
 
 1. **Initializing Then Refining: A Simple Graph Attribute Imputation Network**
 
-    *Wenxuan Tu, Sihang Zhou, Xinwang Liu, Yue Liu, Zhiping Cai, En Zhu, Changwang Zhang, Jieren Cheng:*
+    *Wenxuan Tu, Sihang Zhou, Xinwang Liu, Yue Liu, Zhiping Cai, En Zhu, Changwang Zhang, Jieren Cheng*
 
 1. **EMGC²F: Efficient Multi-view Graph Clustering with Comprehensive Fusion**
 
-    *Danyang Wu, Jitao Lu, Feiping Nie, Rong Wang, Yuan Yuan:*
+    *Danyang Wu, Jitao Lu, Feiping Nie, Rong Wang, Yuan Yuan*
 
 1. **A Simple yet Effective Method for Graph Classification**
 
-    *Junran Wu, Shangzhe Li, Jianhao Li, Yicheng Pan, Ke Xu:*
+    *Junran Wu, Shangzhe Li, Jianhao Li, Yicheng Pan, Ke Xu*
 
 1. **Stabilizing and Enhancing Link Prediction through Deepened Graph Auto-Encoders**
 
-    *Xinxing Wu, Qiang Cheng:*
+    *Xinxing Wu, Qiang Cheng*
 
 1. **Information Augmentation for Few-shot Node Classification**
 
-    *Zongqian Wu, Peng Zhou, Guoqiu Wen, Yingying Wan, Junbo Ma, Debo Cheng, Xiaofeng Zhu:*
+    *Zongqian Wu, Peng Zhou, Guoqiu Wen, Yingying Wan, Junbo Ma, Debo Cheng, Xiaofeng Zhu*
 
 1. **Online ECG Emotion Recognition for Unknown Subjects via Hypergraph-Based Transfer Learning**
 
-    *Yalan Ye, Tongjie Pan, Qianhe Meng, Jingjing Li, Li Lu:*
+    *Yalan Ye, Tongjie Pan, Qianhe Meng, Jingjing Li, Li Lu*
 
 1. **Fine-Tuning Graph Neural Networks via Graph Topology Induced Optimal Transport**
 
-    *Jiying Zhang, Xi Xiao, Long-Kai Huang, Yu Rong, Yatao Bian:*
+    *Jiying Zhang, Xi Xiao, Long-Kai Huang, Yu Rong, Yatao Bian*
 
 1. **Hierarchical Diffusion Scattering Graph Neural Network**
 
-    *Ke Zhang, Xinyan Pu, Jiaxing Li, Jiasong Wu, Huazhong Shu, Youyong Kong:*
+    *Ke Zhang, Xinyan Pu, Jiaxing Li, Jiasong Wu, Huazhong Shu, Youyong Kong*
 
 1. **RoSA: A Robust Self-Aligned Framework for Node-Node Graph Contrastive Learning**
 
-    *Yun Zhu, Jianhao Guo, Fei Wu, Siliang Tang:*
+    *Yun Zhu, Jianhao Guo, Fei Wu, Siliang Tang*
 
 1. **Subsequence-based Graph Routing Network for Capturing Multiple Risk Propagation Processes**
 
-    *Rui Cheng, Qing Li:*
+    *Rui Cheng, Qing Li*
 
 1. **Monolith to Microservices: Representing Application Software through Heterogeneous Graph Neural Network**
 
-    *Alex Mathai, Sambaran Bandyopadhyay, Utkarsh Desai, Srikanth Tamilselvam:*
+    *Alex Mathai, Sambaran Bandyopadhyay, Utkarsh Desai, Srikanth Tamilselvam*
 
 1. **Communicative Subgraph Representation Learning for Multi-Relational Inductive Drug-Gene Interaction Prediction**
 
-    *Jiahua Rao, Shuangjia Zheng, Sijie Mai, Yuedong Yang:*
+    *Jiahua Rao, Shuangjia Zheng, Sijie Mai, Yuedong Yang*
 
 1. **FOGS: First-Order Gradient Supervision with Learning-based Graph for Traffic Flow Forecasting**
 
-    *Xuan Rao, Hao Wang, Liang Zhang, Jing Li, Shuo Shang, Peng Han:*
+    *Xuan Rao, Hao Wang, Liang Zhang, Jing Li, Shuo Shang, Peng Han*
 
 1. **Effective Graph Context Representation for Document-level Machine Translation**
 
-    *Kehai Chen, Muyun Yang, Masao Utiyama, Eiichiro Sumita, Rui Wang, Min Zhang:*
+    *Kehai Chen, Muyun Yang, Masao Utiyama, Eiichiro Sumita, Rui Wang, Min Zhang*
 
 1. **Interactive Information Extraction by Semantic Information Graph**
 
-    *Siqi Fan, Yequan Wang, Jing Li, Zheng Zhang, Shuo Shang, Peng Han:*
+    *Siqi Fan, Yequan Wang, Jing Li, Zheng Zhang, Shuo Shang, Peng Han*
 
 1. **Control Globally, Understand Locally: A Global-to-Local Hierarchical Graph Network for Emotional Support Conversation**
 
-    *Wei Peng, Yue Hu, Luxi Xing, Yuqiang Xie, Yajing Sun, Yunpeng Li:*
+    *Wei Peng, Yue Hu, Luxi Xing, Yuqiang Xie, Yajing Sun, Yunpeng Li*
 
 1. **Neural Subgraph Explorer: Reducing Noisy Information via Target-oriented Syntax Graph Pruning**
 
-    *Bowen Xing, Ivor W. Tsang:*
+    *Bowen Xing, Ivor W. Tsang*
 
 1. **Contrastive Graph Transformer Network for Personality Detection**
 
-    *Yangfu Zhu, Linmei Hu, Xinkai Ge, Wanrong Peng, Bin Wu:*
+    *Yangfu Zhu, Linmei Hu, Xinkai Ge, Wanrong Peng, Bin Wu*
 
 1. **Dynamic Structure Learning through Graph Neural Network for Forecasting Soil Moisture in Precision Agriculture**
 
-    *Anoushka Vyas, Sambaran Bandyopadhyay:*
+    *Anoushka Vyas, Sambaran Bandyopadhyay*
 
 1. **Survey on Graph Neural Network Acceleration: An Algorithmic Perspective**
 
-    *Xin Liu, Mingyu Yan, Lei Deng, Guoqi Li, Xiaochun Ye, Dongrui Fan, Shirui Pan, Yuan Xie:*
+    *Xin Liu, Mingyu Yan, Lei Deng, Guoqi Li, Xiaochun Ye, Dongrui Fan, Shirui Pan, Yuan Xie*
 
 ### [ICML-2022](#contents)
 1. **Learning to Predict Graphs with Fused Gromov-Wasserstein Barycenters**
