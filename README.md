@@ -4,7 +4,7 @@ I scanned over the accepted paper lists of top machine learning and data mining 
 
 ## [Contents](#content)
   - [IJCAI-2023](#ijcai-2023) [ICML-2023](#icml-2023) [KDD-2023](#kdd-2023) [SIGIR-2023](#sigir-2023) [AAAI-2023](#aaai-2023) [ICLR-2023](#iclr-2023) [WSDM-2023](#wsdm-2023) [WWW-2023](#www-2023) [ICDE-2023](#icde-2023) [SIGMOD-2023](#sigmod-2023) 
-  - [IJCAI-2022](#ijcai-2022) [ICML-2022](#icml-2022)  [KDD-2022](#kdd-2022) [SIGIR-2022](#sigir-2022) [NeurIPS-2022](#neurips-2022) [AAAI-2022](#aaai-2022) [WSDM-2022](#wsdm-2022) [WWW-2022](#www-2022) [ICDE-2022](#icde-2022) [SIGMOD-2022](#sigmod-2022)
+  - [IJCAI-2022](#ijcai-2022) [ICML-2022](#icml-2022)  [KDD-2022](#kdd-2022) [SIGIR-2022](#sigir-2022) [NeurIPS-2022](#neurips-2022) [AAAI-2022](#aaai-2022) [ICLR-2022](#iclr-2022) [WSDM-2022](#wsdm-2022) [WWW-2022](#www-2022) [ICDE-2022](#icde-2022) [SIGMOD-2022](#sigmod-2022)
 
 ### [IJCAI-2023](#contents)
 1. **Self-supervised Graph Disentangled Networks for Review-based Recommendation**
@@ -4396,7 +4396,326 @@ I scanned over the accepted paper lists of top machine learning and data mining 
 
     *Ilya Tyagin, Ankit Kulshrestha, Justin Sybrandt, Krish Matta, Michael Shtutman, Ilya Safro*
 
+### [ICLR-2022](#contents)
+1. **A New Perspective on "How Graph Neural Networks Go Beyond Weisfeiler-Lehman?".**
 
+    *Asiri Wijesinghe, Qing Wang*
+
+1. **Data-Efficient Graph Grammar Learning for Molecular Generation.**
+
+    *Minghao Guo, Veronika Thost, Beichen Li, Payel Das, Jie Chen, Wojciech Matusik*
+
+1. **Expressiveness and Approximation Properties of Graph Neural Networks.**
+
+    *Floris Geerts, Juan L. Reutter*
+
+1. **Understanding over-squashing and bottlenecks on graphs via curvature.**
+
+    *Jake Topping, Francesco Di Giovanni, Benjamin Paul Chamberlain, Xiaowen Dong, Michael M. Bronstein*
+
+1. **Is Homophily a Necessity for Graph Neural Networks?**
+
+    *Yao Ma, Xiaorui Liu, Neil Shah, Jiliang Tang*
+
+1. **DEGREE: Decomposition Based Explanation for Graph Neural Networks.**
+
+    *Qizhang Feng, Ninghao Liu, Fan Yang, Ruixiang Tang, Mengnan Du, Xia Hu*
+
+1. **Towards Training Billion Parameter Graph Neural Networks for Atomic Simulations.**
+
+    *Anuroop Sriram, Abhishek Das, Brandon M. Wood, Siddharth Goyal, C. Lawrence Zitnick*
+
+1. **On Evaluation Metrics for Graph Generative Models.**
+
+    *Rylee Thompson, Boris Knyazev, Elahe Ghalebi, Jungtaek Kim, Graham W. Taylor*
+
+1. **Graph Condensation for Graph Neural Networks.**
+
+    *Wei Jin, Lingxiao Zhao, Shichang Zhang, Yozen Liu, Jiliang Tang, Neil Shah*
+
+1. **From Stars to Subgraphs: Uplifting Any GNN with Local Structure Awareness.**
+
+    *Lingxiao Zhao, Wei Jin, Leman Akoglu, Neil Shah*
+
+1. **Triangle and Four Cycle Counting with Predictions in Graph Streams.**
+
+    *Justin Y. Chen, Talya Eden, Piotr Indyk, Honghao Lin, Shyam Narayanan, Ronitt Rubinfeld, Sandeep Silwal, Tal Wagner, David P. Woodruff, Michael Zhang*
+
+1. **NodePiece: Compositional and Parameter-Efficient Representations of Large Knowledge Graphs.**
+
+    *Mikhail Galkin, Etienne G. Denis, Jiapeng Wu, William L. Hamilton*
+
+1. **Graphon based Clustering and Testing of Networks: Algorithms and Theory.**
+
+    *Mahalakshmi Sabanayagam, Leena Chennuru Vankadara, Debarghya Ghoshdastidar*
+
+1. **How Attentive are Graph Attention Networks?**
+
+    *Shaked Brody, Uri Alon, Eran Yahav*
+
+1. **Graph-less Neural Networks: Teaching Old MLPs New Tricks Via Distillation.**
+
+    *Shichang Zhang, Yozen Liu, Yizhou Sun, Neil Shah*
+
+1. **Large-Scale Representation Learning on Graphs via Bootstrapping.**
+
+    *Shantanu Thakoor, Corentin Tallec, Mohammad Gheshlaghi Azar, Mehdi Azabou, Eva L. Dyer, Rémi Munos, Petar Velickovic, Michal Valko*
+
+1. **Top-N: Equivariant Set and Graph Generation without Exchangeability.**
+
+    *Clément Vignac, Pascal Frossard*
+
+1. **PF-GNN: Differentiable particle filtering based approximation of universal graph representations.**
+
+    *Mohammed Haroon Dupty, Yanfei Dong, Wee Sun Lee*
+
+1. **Equivariant Graph Mechanics Networks with Constraints.**
+
+    *Wenbing Huang, Jiaqi Han, Yu Rong, Tingyang Xu, Fuchun Sun, Junzhou Huang*
+
+1. **Convergent Graph Solvers.**
+
+    *Junyoung Park, Jinhyun Choo, Jinkyoo Park*
+
+1. **GLASS: GNN with Labeling Tricks for Subgraph Representation Learning.**
+
+    *Xiyuan Wang, Muhan Zhang*
+
+1. **Space-Time Graph Neural Networks.**
+
+    *Samar Hadou, Charilaos I. Kanatsoulis, Alejandro Ribeiro*
+
+1. **End-to-End Learning of Probabilistic Hierarchies on Graphs.**
+
+    *Daniel Zügner, Bertrand Charpentier, Morgane Ayle, Sascha Geringer, Stephan Günnemann*
+
+1. **GraphENS: Neighbor-Aware Ego Network Synthesis for Class-Imbalanced Node Classification.**
+
+    *Joonhyung Park, Jaeyun Song, Eunho Yang*
+
+1. **Why Propagate Alone? Parallel Use of Labels and Features on Graphs.**
+
+    *Yangkun Wang, Jiarui Jin, Weinan Zhang, Yongyi Yang, Jiuhai Chen, Quan Gan, Yong Yu, Zheng Zhang, Zengfeng Huang, David Wipf*
+
+1. **Equivariant and Stable Positional Encoding for More Powerful Graph Neural Networks.**
+
+    *Haorui Wang, Haoteng Yin, Muhan Zhang, Pan Li*
+
+1. **Query Embedding on Hyper-Relational Knowledge Graphs.**
+
+    *Dimitrios Alivanistos, Max Berrendorf, Michael Cochez, Mikhail Galkin*
+
+1. **Inductive Relation Prediction Using Analogy Subgraph Embeddings.**
+
+    *Jiarui Jin, Yangkun Wang, Kounianhua Du, Weinan Zhang, Zheng Zhang, David Wipf, Yong Yu, Quan Gan*
+
+1. **Graph Neural Network Guided Local Search for the Traveling Salesperson Problem.**
+
+    *Benjamin Hudson, Qingbiao Li, Matthew Malencia, Amanda Prorok*
+
+1. **Understanding and Improving Graph Injection Attack by Promoting Unnoticeability.**
+
+    *Yongqiang Chen, Han Yang, Yonggang Zhang, Kaili Ma, Tongliang Liu, Bo Han, James Cheng*
+
+1. **Self-Supervised Graph Neural Networks for Improved Electroencephalographic Seizure Analysis.**
+
+    *Siyi Tang, Jared Dunnmon, Khaled Kamal Saab, Xuan Zhang, Qianying Huang, Florian Dubost, Daniel L. Rubin, Christopher Lee-Messer*
+
+1. **EXACT: Scalable Graph Neural Networks Training via Extreme Activation Compression.**
+
+    *Zirui Liu, Kaixiong Zhou, Fan Yang, Li Li, Rui Chen, Xia Hu*
+
+1. **Graph-Relational Domain Adaptation.**
+
+    *Zihao Xu, Hao He, Guang-He Lee, Bernie Wang, Hao Wang*
+
+1. **PipeGCN: Efficient Full-Graph Training of Graph Convolutional Networks with Pipelined Feature Communication.**
+
+    *Cheng Wan, Youjie Li, Cameron R. Wolfe, Anastasios Kyrillidis, Nam Sung Kim, Yingyan Lin*
+
+1. **Graph Neural Networks with Learnable Structural and Positional Representations.**
+
+    *Vijay Prakash Dwivedi, Anh Tuan Luu, Thomas Laurent, Yoshua Bengio, Xavier Bresson*
+
+1. **Graph Auto-Encoder via Neighborhood Wasserstein Reconstruction.**
+
+    *Mingyue Tang, Pan Li, Carl Yang*
+
+1. **Towards Deepening Graph Neural Networks: A GNTK-based Optimization Perspective.**
+
+    *Wei Huang, Yayong Li, Weitao Du, Richard Y. D. Xu, Jie Yin, Ling Chen, Miao Zhang*
+
+1. **Learn Locally, Correct Globally: A Distributed Algorithm for Training Graph Neural Networks.**
+
+    *Morteza Ramezani, Weilin Cong, Mehrdad Mahdavi, Mahmut T. Kandemir, Anand Sivasubramaniam*
+
+1. **Neural Methods for Logical Reasoning over Knowledge Graphs.**
+
+    *Alfonso Amayuelas, Shuai Zhang, Susie Xi Rao, Ce Zhang*
+
+1. **Graph-Guided Network for Irregularly Sampled Multivariate Time Series.**
+
+    *Xiang Zhang, Marko Zeman, Theodoros Tsiligkaridis, Marinka Zitnik*
+
+1. **Explainable GNN-Based Models over Knowledge Graphs.**
+
+    *David Jaime Tena Cucala, Bernardo Cuenca Grau, Egor V. Kostylev, Boris Motik*
+
+1. **Pre-training Molecular Graph Representation with 3D Geometry.**
+
+    *Shengchao Liu, Hanchen Wang, Weiyang Liu, Joan Lasenby, Hongyu Guo, Jian Tang*
+
+1. **GRAND++: Graph Neural Diffusion with A Source Term.**
+
+    *Matthew Thorpe, Tan Minh Nguyen, Hedi Xia, Thomas Strohmer, Andrea L. Bertozzi, Stanley J. Osher, Bao Wang*
+
+1. **Semi-relaxed Gromov-Wasserstein divergence and applications on graphs.**
+
+    *Cédric Vincent-Cuaz, Rémi Flamary, Marco Corneli, Titouan Vayer, Nicolas Courty*
+
+1. **Using Graph Representation Learning with Schema Encoders to Measure the Severity of Depressive Symptoms.**
+
+    *Simin Hong, Anthony G. Cohn, David Crossland Hogg*
+
+1. **Learning Graphon Mean Field Games and Approximate Nash Equilibria.**
+
+    *Kai Cui, Heinz Koeppl*
+
+1. **Topological Graph Neural Networks.**
+
+    *Max Horn, Edward De Brouwer, Michael Moor, Yves Moreau, Bastian Rieck, Karsten M. Borgwardt*
+
+1. **Automated Self-Supervised Learning for Graphs.**
+
+    *Wei Jin, Xiaorui Liu, Xiangyu Zhao, Yao Ma, Neil Shah, Jiliang Tang*
+
+1. **You are AllSet: A Multiset Function Framework for Hypergraph Neural Networks.**
+
+    *Eli Chien, Chao Pan, Jianhao Peng, Olgica Milenkovic*
+
+1. **Cold Brew: Distilling Graph Node Representations with Incomplete or Missing Neighborhoods.**
+
+    *Wenqing Zheng, Edward W. Huang, Nikhil Rao, Sumeet Katariya, Zhangyang Wang, Karthik Subbian*
+
+1. **Spatial Graph Attention and Curiosity-driven Policy for Antiviral Drug Discovery.**
+
+    *Yulun Wu, Nicholas Choma, Andrew Deru Chen, Mikaela Cashman, Érica Teixeira Prates, Verónica G. Melesse Vergara, Manesh Shah, Austin Clyde, Thomas S. Brettin, Wibe Albert de Jong, Neeraj Kumar, Martha S. Head, Rick L. Stevens, Peter Nugent, Daniel A. Jacobson, James B. Brown*
+
+1. **Spherical Message Passing for 3D Molecular Graphs.**
+
+    *Yi Liu, Limei Wang, Meng Liu, Yuchao Lin, Xuan Zhang, Bora Oztekin, Shuiwang Ji*
+
+1. **Fairness Guarantees under Demographic Shift.**
+
+    *Stephen Giguere, Blossom Metevier, Bruno Castro da Silva, Yuriy Brun, Philip S. Thomas, Scott Niekum*
+
+1. **Learning Guarantees for Graph Convolutional Networks on the Stochastic Block Model.**
+
+    *Wei Lu*
+
+1. **Graph-based Nearest Neighbor Search in Hyperbolic Spaces.**
+
+    *Liudmila Prokhorenkova, Dmitry Baranchuk, Nikolay Bogachev, Yury Demidovich, Alexander Kolpakov*
+
+1. **Discovering Invariant Rationales for Graph Neural Networks.**
+
+    *Yingxin Wu, Xiang Wang, An Zhang, Xiangnan He, Tat-Seng Chua*
+
+1. **Do We Need Anisotropic Graph Neural Networks?**
+
+    *Shyam A. Tailor, Felix L. Opolka, Pietro Liò, Nicholas Donald Lane*
+
+1. **Simple GNN Regularisation for 3D Molecular Property Prediction and Beyond.**
+
+    *Jonathan Godwin, Michael Schaarschmidt, Alexander L. Gaunt, Alvaro Sanchez-Gonzalez, Yulia Rubanova, Petar Velickovic, James Kirkpatrick, Peter W. Battaglia*
+
+1. **Filling the G_ap_s: Multivariate Time Series Imputation by Graph Neural Networks.**
+
+    *Andrea Cini, Ivan Marisca, Cesare Alippi*
+
+1. **Information Gain Propagation: a New Way to Graph Active Learning with Soft Labels.**
+
+    *Wentao Zhang, Yexin Wang, Zhenbang You, Meng Cao, Ping Huang, Jiulong Shan, Zhi Yang, Bin Cui*
+
+1. **Handling Distribution Shifts on Graphs: An Invariance Perspective.**
+
+    *Qitian Wu, Hengrui Zhang, Junchi Yan, David Wipf*
+
+1. **Generalized Demographic Parity for Group Fairness.**
+
+    *Zhimeng Jiang, Xiaotian Han, Chao Fan, Fan Yang, Ali Mostafavi, Xia Hu*
+
+1. **Fixed Neural Network Steganography: Train the images, not the network.**
+
+    *Varsha Kishore, Xiangyu Chen, Yan Wang, Boyi Li, Kilian Q. Weinberger*
+
+1. **A Biologically Interpretable Graph Convolutional Network to Link Genetic Risk Pathways and Imaging Phenotypes of Disease.**
+
+    *Sayan Ghosal, Qiang Chen, Giulio Pergola, Aaron L. Goldman, William Ulrich, Daniel R. Weinberger, Archana Venkataraman*
+
+1. **Retriever: Learning Content-Style Representation as a Token-Level Bipartite Graph.**
+
+    *Dacheng Yin, Xuanchi Ren, Chong Luo, Yuwang Wang, Zhiwei Xiong, Wenjun Zeng*
+
+1. **GNN is a Counter? Revisiting GNN for Question Answering.**
+
+    *Kuan Wang, Yuyu Zhang, Diyi Yang, Le Song, Tao Qin*
+
+1. **Neural graphical modelling in continuous-time: consistency guarantees and algorithms.**
+
+    *Alexis Bellot, Kim Branson, Mihaela van der Schaar*
+
+1. **Learning to Schedule Learning rate with Graph Neural Networks.**
+
+    *Yuanhao Xiong, Li-Cheng Lan, Xiangning Chen, Ruochen Wang, Cho-Jui Hsieh*
+
+1. **GreaseLM: Graph REASoning Enhanced Language Models.**
+
+    *Xikun Zhang, Antoine Bosselut, Michihiro Yasunaga, Hongyu Ren, Percy Liang, Christopher D. Manning, Jure Leskovec*
+
+1. **Does your graph need a confidence boost? Convergent boosted smoothing on graphs with tabular node features.**
+
+    *Jiuhai Chen, Jonas Mueller, Vassilis N. Ioannidis, Soji Adeshina, Yangkun Wang, Tom Goldstein, David Wipf*
+
+1. **TAMP-S2GCNets: Coupling Time-Aware Multipersistence Knowledge Representation with Spatio-Supra Graph Convolutional Networks for Time-Series Forecasting.**
+
+    *Yuzhou Chen, Ignacio Segovia-Dominguez, Baris Coskunuzer, Yulia R. Gel*
+
+1. **GNN-LM: Language Modeling based on Global Contexts via GNN.**
+
+    *Yuxian Meng, Shi Zong, Xiaoya Li, Xiaofei Sun, Tianwei Zhang, Fei Wu, Jiwei Li*
+
+1. **Revisiting Over-smoothing in BERT from the Perspective of Graph.**
+
+    *Han Shi, Jiahui Gao, Hang Xu, Xiaodan Liang, Zhenguo Li, Lingpeng Kong, Stephen M. S. Lee, James T. Kwok*
+
+1. **Graph-Augmented Normalizing Flows for Anomaly Detection of Multiple Time Series.**
+
+    *Enyan Dai, Jie Chen*
+
+1. **Iterative Refinement Graph Neural Network for Antibody Sequence-Structure Co-design.**
+
+    *Wengong Jin, Jeremy Wohlwend, Regina Barzilay, Tommi S. Jaakkola*
+
+1. **Ab-Initio Potential Energy Surfaces by Pairing GNNs with Neural Wave Functions.**
+
+    *Nicholas Gao, Stephan Günnemann*
+
+1. **Evaluation Metrics for Graph Generative Models: Problems, Pitfalls, and Practical Solutions.**
+
+    *Leslie O'Bray, Max Horn, Bastian Rieck, Karsten M. Borgwardt*
+
+1. **Context-Aware Sparse Deep Coordination Graphs.**
+
+    *Tonghan Wang, Liang Zeng, Weijun Dong, Qianlan Yang, Yang Yu, Chongjie Zhang*
+
+1. **Spanning Tree-based Graph Generation for Molecules.**
+
+    *Sungsoo Ahn, Binghong Chen, Tianzhe Wang, Le Song*
+
+1. **Equivariant Subgraph Aggregation Networks.**
+
+    *Beatrice Bevilacqua, Fabrizio Frasca, Derek Lim, Balasubramaniam Srinivasan, Chen Cai, Gopinath Balamurugan, Michael M. Bronstein, Haggai Maron*
 
 ### [WSDM-2022](#contents)
 1. **Graph Collaborative Reasoning**
