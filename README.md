@@ -4,7 +4,7 @@ I scanned over the accepted paper lists of top machine learning and data mining 
 
 ## [Contents](#contents)
   - [IJCAI-2023](#ijcai-2023) [ICML-2023](#icml-2023) [KDD-2023](#kdd-2023) [SIGIR-2023](#sigir-2023) [NeurIPS-2023](#neurips-2023) [CIKM-2023](#cikm-2023) [AAAI-2023](#aaai-2023) [ICLR-2023](#iclr-2023) [WSDM-2023](#wsdm-2023) [WWW-2023](#www-2023) [ICDE-2023](#icde-2023) [SIGMOD-2023](#sigmod-2023) 
-  - [IJCAI-2022](#ijcai-2022) [ICML-2022](#icml-2022)  [KDD-2022](#kdd-2022) [SIGIR-2022](#sigir-2022) [NeurIPS-2022](#neurips-2022) [AAAI-2022](#aaai-2022) [ICLR-2022](#iclr-2022) [WSDM-2022](#wsdm-2022) [WWW-2022](#www-2022) [ICDE-2022](#icde-2022) [SIGMOD-2022](#sigmod-2022)
+  - [IJCAI-2022](#ijcai-2022) [ICML-2022](#icml-2022)  [KDD-2022](#kdd-2022) [SIGIR-2022](#sigir-2022) [NeurIPS-2022](#neurips-2022) [CIKM-2022](#cikm-2022) [AAAI-2022](#aaai-2022) [ICLR-2022](#iclr-2022) [WSDM-2022](#wsdm-2022) [WWW-2022](#www-2022) [ICDE-2022](#icde-2022) [SIGMOD-2022](#sigmod-2022)
 
 ### [IJCAI-2023](#contents)
 1. **Self-supervised Graph Disentangled Networks for Review-based Recommendation**
@@ -5598,6 +5598,540 @@ I scanned over the accepted paper lists of top machine learning and data mining 
 1. **OTKGE: Multi-modal Knowledge Graph Embeddings via Optimal Transport.**
 
     *Zongsheng Cao, Qianqian Xu, Zhiyong Yang, Yuan He, Xiaochun Cao, Qingming Huang*
+
+### [CIKM-2022](#contents)
+
+1. **KRAF: A Flexible Advertising Framework using Knowledge Graph-Enriched Multi-Agent Reinforcement Learning.**
+
+    *Jose A. Ayala-Romero, Péter Mernyei, Bichen Shi, Diego Mazón*
+
+1. **Memory Graph with Message Rehearsal for Multi-Turn Dialogue Generation.**
+
+    *Xiaoyu Cai, Yao Fu, Hong Zhao, Weihao Jiang, Shiliang Pu*
+
+1. **Towards Self-supervised Learning on Graphs with Heterophily.**
+
+    *Jingfan Chen, Guanghui Zhu, Yifan Qi, Chunfeng Yuan, Yihua Huang*
+
+1. **GCF-RD: A Graph-based Contrastive Framework for Semi-Supervised Learning on Relational Databases.**
+
+    *Runjin Chen, Tong Li, Yanyan Shen, Luyu Qiu, Kaidi Li, Caleb Chen Cao*
+
+1. **Explainable Link Prediction in Knowledge Hypergraphs.**
+
+    *Zirui Chen, Xin Wang, Chenxu Wang, Jianxin Li*
+
+1. **Finding Heterophilic Neighbors via Confidence-based Subgraph Matching for Semi-supervised Node Classification.**
+
+    *Yoonhyuk Choi, Jiho Choi, Taewook Ko, Hyungho Byun, Chong-Kwon Kim*
+
+1. **Inductive Knowledge Graph Reasoning for Multi-batch Emerging Entities.**
+
+    *Yuanning Cui, Yuxin Wang, Zequn Sun, Wenqiang Liu, Yiqiao Jiang, Kexin Han, Wei Hu*
+
+1. **Higher-order Clustering and Pooling for Graph Neural Networks.**
+
+    *Alexandre Duval, Fragkiskos D. Malliaros*
+
+1. **MGMAE: Molecular Representation Learning by Reconstructing Heterogeneous Graphs with A High Mask Ratio.**
+
+    *Jinjia Feng, Zhen Wang, Yaliang Li, Bolin Ding, Zhewei Wei, Hongteng Xu*
+
+1. **GraTO: Graph Neural Network Framework Tackling Over-smoothing with Neural Architecture Search.**
+
+    *Xinshun Feng, Herun Wan, Shangbin Feng, Hongrui Wang, Qinghua Zheng, Jun Zhou, Minnan Luo*
+
+1. **Modeling Dynamic Heterogeneous Graph and Node Importance for Future Citation Prediction.**
+
+    *Hao Geng, Deqing Wang, Fuzhen Zhuang, Xuehua Ming, Chenguang Du, Ting Jiang, Haolong Guo, Rui Liu*
+
+1. **ITSM-GCN: Informative Training Sample Mining for Graph Convolutional Network-based Collaborative Filtering.**
+
+    *Kaiqi Gong, Xiao Song, Senzhang Wang, Songsong Liu, Yong Li*
+
+1. **Evolutionary Preference Learning via Graph Nested GRU ODE for Session-based Recommendation.**
+
+    *Jiayan Guo, Peiyan Zhang, Chaozhuo Li, Xing Xie, Yan Zhang, Sunghun Kim*
+
+1. **Multi-Aggregator Time-Warping Heterogeneous Graph Neural Network for Personalized Micro-Video Recommendation.**
+
+    *Jinkun Han, Wei Li, Zhipeng Cai, Yingshu Li*
+
+1. **Cross-Domain Aspect Extraction using Transformers Augmented with Knowledge Graphs.**
+
+    *Phillip Howard, Arden Ma, Vasudev Lal, Ana Paula Simões, Daniel Korat, Oren Pereg, Moshe Wasserblat, Gadi Singer*
+
+1. **Discovering Fine-Grained Semantics in Knowledge Graph Relations.**
+
+    *Nitisha Jain, Ralf Krestel*
+
+1. **Extracting Drug-drug Interactions from Biomedical Texts using Knowledge Graph Embeddings and Multi-focal Loss.**
+
+    *Xin Jin, Xia Sun, Jiacheng Chen, Richard F. E. Sutcliffe*
+
+1. **X-GOAL: Multiplex Heterogeneous Graph Prototypical Contrastive Learning.**
+
+    *Baoyu Jing, Shengyu Feng, Yuejia Xiang, Xi Chen, Yu Chen, Hanghang Tong*
+
+1. **Contrastive Representation Learning for Conversational Question Answering over Knowledge Graphs.**
+
+    *Endri Kacupaj, Kuldeep Singh, Maria Maleshkova, Jens Lehmann*
+
+1. **SWAG-Net: Semantic Word-Aware Graph Network for Temporal Video Grounding.**
+
+    *Sunoh Kim, Taegil Ha, Kimin Yun, Jin Young Choi*
+
+1. **Relational Self-Supervised Learning on Graphs.**
+
+    *Namkyeong Lee, Dongmin Hyun, Junseok Lee, Chanyoung Park*
+
+1. **Automated Spatio-Temporal Synchronous Modeling with Multiple Graphs for Traffic Prediction.**
+
+    *Fuxian Li, Huan Yan, Guangyin Jin, Yue Liu, Yong Li, Depeng Jin*
+
+1. **MDGCF: Multi-Dependency Graph Collaborative Filtering with Neighborhood- and Homogeneous-level Dependencies.**
+
+    *Guohui Li, Zhiqiang Guo, Jianjun Li, Chaoyang Wang*
+
+1. **Heterogeneous Graph Attention Network for Drug-Target Interaction Prediction.**
+
+    *Mei Li, Xiangrui Cai, Linyu Li, Sihan Xu, Hua Ji*
+
+1. **Spatiotemporal-aware Session-based Recommendation with Graph Neural Networks.**
+
+    *Yinfeng Li, Chen Gao, Xiaoyi Du, Huazhou Wei, Hengliang Luo, Depeng Jin, Yong Li*
+
+1. **Dynamic Network Embedding via Temporal Path Adjacency Matrix Factorization.**
+
+    *Zhuoming Li, Darong Lai*
+
+1. **DA-Net: Distributed Attention Network for Temporal Knowledge Graph Reasoning.**
+
+    *Kangzheng Liu, Feng Zhao, Hongxu Chen, Yicong Li, Guandong Xu, Hai Jin*
+
+1. **Unsupervised Hierarchical Graph Pooling via Substructure-Sensitive Mutual Information Maximization.**
+
+    *Ning Liu, Songlei Jian, Dongsheng Li, Hongzuo Xu*
+
+1. **HeGA: Heterogeneous Graph Aggregation Network for Trajectory Prediction in High-Density Traffic.**
+
+    *Shuncheng Liu, Xu Chen, Ziniu Wu, Liwei Deng, Han Su, Kai Zheng*
+
+1. **I Know What You Do Not Know: Knowledge Graph Embedding via Co-distillation Learning.**
+
+    *Yang Liu, Zequn Sun, Guangyao Li, Wei Hu*
+
+1. **Social Graph Transformer Networks for Pedestrian Trajectory Prediction in Complex Social Scenarios.**
+
+    *Yao Liu, Lina Yao, Binghao Li, Xianzhi Wang, Claude Sammut*
+
+1. **Are Gradients on Graph Structure Reliable in Gray-box Attacks?**
+
+    *Zihan Liu, Yun Luo, Lirong Wu, Siyuan Li, Zicheng Liu, Stan Z. Li*
+
+1. **HySAGE: A Hybrid Static and Adaptive Graph Embedding Network for Context-Drifting Recommendations.**
+
+    *Sichun Luo, Xinyi Zhang, Yuanzhang Xiao, Linqi Song*
+
+1. **DEMO: Disentangled Molecular Graph Generation via an Invertible Flow Model.**
+
+    *Changsheng Ma, Qiang Yang, Xin Gao, Xiangliang Zhang*
+
+1. **Hierarchical Spatio-Temporal Graph Neural Networks for Pandemic Forecasting.**
+
+    *Yihong Ma, Patrick Gérard, Yijun Tian, Zhichun Guo, Nitesh V. Chawla*
+
+1. **Adaptive Re-Ranking with a Corpus Graph.**
+
+    *Sean MacAvaney, Nicola Tonellotto, Craig Macdonald*
+
+1. **Automatic Meta-Path Discovery for Effective Graph-Based Recommendation.**
+
+    *Wentao Ning, Reynold Cheng, Jiajun Shen, Nur Al Hasan Haldar, Ben Kao, Xiao Yan, Nan Huo, Wai Kit Lam, Tian Li, Bo Tang*
+
+1. **SVD-GCN: A Simplified Graph Convolution Paradigm for Recommendation.**
+
+    *Shaowen Peng, Kazunari Sugiyama, Tsunenori Mine*
+
+1. **Malicious Repositories Detection with Adversarial Heterogeneous Graph Contrastive Learning.**
+
+    *Yiyue Qian, Yiming Zhang, Nitesh V. Chawla, Yanfang Ye, Chuxu Zhang*
+
+1. **Reinforced Continual Learning for Graphs.**
+
+    *Appan Rakaraddi, Siew-Kei Lam, Mahardhika Pratama, Marcus de Carvalho*
+
+1. **From Known to Unknown: Quality-aware Self-improving Graph Neural Network For Open Set Social Event Detection.**
+
+    *Jiaqian Ren, Lei Jiang, Hao Peng, Yuwei Cao, Jia Wu, Philip S. Yu, Lifang He*
+
+1. **Graph Based Long-Term And Short-Term Interest Model for Click-Through Rate Prediction.**
+
+    *Huinan Sun, Guangliang Yu, Pengye Zhang, Bo Zhang, Xingxing Wang, Dong Wang*
+
+1. **A Self-supervised Riemannian GNN with Time Varying Curvature for Temporal Graph Learning.**
+
+    *Li Sun, Junda Ye, Hao Peng, Philip S. Yu*
+
+1. **Position-aware Structure Learning for Graph Topology-imbalance by Relieving Under-reaching and Over-squashing.**
+
+    *Qingyun Sun, Jianxin Li, Haonan Yuan, Xingcheng Fu, Hao Peng, Cheng Ji, Qian Li, Philip S. Yu*
+
+1. **Temporality- and Frequency-aware Graph Contrastive Learning for Temporal Network.**
+
+    *Shiyin Tan, Jingyi You, Dongyuan Li*
+
+1. **Interpretable Emotion Analysis Based on Knowledge Graph and OCC Model.**
+
+    *Shuo Wang, Yifei Zhang, Bochen Lin, Boxun Li*
+
+1. **AdaGCL: Adaptive Subgraph Contrastive Learning to Generalize Large-scale Graph Training.**
+
+    *Yili Wang, Kaixiong Zhou, Rui Miao, Ninghao Liu, Xin Wang*
+
+1. **Imbalanced Graph Classification via Graph-of-Graph Neural Networks.**
+
+    *Yu Wang, Yuying Zhao, Neil Shah, Tyler Derr*
+
+1. **Dynamic Hypergraph Learning for Collaborative Filtering.**
+
+    *Chunyu Wei, Jian Liang, Bing Bai, Di Liu*
+
+1. **Large-scale Entity Alignment via Knowledge Graph Merging, Partitioning and Embedding.**
+
+    *Kexuan Xin, Zequn Sun, Wen Hua, Wei Hu, Jianfeng Qu, Xiaofang Zhou*
+
+1. **Taxonomy-Enhanced Graph Neural Networks.**
+
+    *Lingjun Xu, Shiyin Zhang, Guojie Song, Junshan Wang, Tianshu Wu, Guojun Liu*
+
+1. **Semi-supervised Hypergraph Node Classification on Hypergraph Line Expansion.**
+
+    *Chaoqi Yang, Ruijie Wang, Shuochao Yao, Tarek F. Abdelzaher*
+
+1. **GROWN+UP: A "Graph Representation Of a Webpage" Network Utilizing Pre-training.**
+
+    *Benedict Yeoh, Huijuan Wang*
+
+1. **Scalable Graph Sampling on GPUs with Compressed Graph.**
+
+    *Hongbo Yin, Yingxia Shao, Xupeng Miao, Yawen Li, Bin Cui*
+
+1. **The Interaction Graph Auto-encoder Network Based on Topology-aware for Transferable Recommendation.**
+
+    *Ruiyun Yu, Kang Yang, Bingyang Guo*
+
+1. **Cognize Yourself: Graph Pre-Training via Core Graph Cognizing and Differentiating.**
+
+    *Tao Yu, Yao Fu, Linghui Hu, Huizhao Wang, Weihao Jiang, Shiliang Pu*
+
+1. **LTE4G: Long-Tail Experts for Graph Neural Networks.**
+
+    *Sukwon Yun, Kibum Kim, Kanghoon Yoon, Chanyoung Park*
+
+1. **Look Twice as Much as You Say: Scene Graph Contrastive Learning for Self-Supervised Image Caption Generation.**
+
+    *Chunhui Zhang, Chao Huang, Youhuan Li, Xiangliang Zhang, Yanfang Ye, Chuxu Zhang*
+
+1. **Along the Time: Timeline-traced Embedding for Temporal Knowledge Graph Completion.**
+
+    *Fuwei Zhang, Zhao Zhang, Xiang Ao, Fuzhen Zhuang, Yongjun Xu, Qing He*
+
+1. **Handling RDF Streams: Harmonizing Subgraph Matching, Adaptive Incremental Maintenance, and Matching-free Updates Together.**
+
+    *Qianzhen Zhang, Deke Guo, Xiang Zhao, Lailong Luo*
+
+1. **Contrastive Knowledge Graph Error Detection.**
+
+    *Qinggang Zhang, Junnan Dong, Keyu Duan, Xiao Huang, Yezi Liu, Linchuan Xu*
+
+1. **A Simple Meta-path-free Framework for Heterogeneous Network Embedding.**
+
+    *Rui Zhang, Arthur Zimek, Peter Schneider-Kamp*
+
+1. **Two-Level Graph Path Reasoning for Conversational Recommendation with User Realistic Preference.**
+
+    *Rongmei Zhao, Shenggen Ju, Jian Peng, Ning Yang, Fanli Yan, Siyu Sun*
+
+1. **MentorGNN: Deriving Curriculum for Pre-Training GNNs.**
+
+    *Dawei Zhou, Lecheng Zheng, Dongqi Fu, Jiawei Han, Jingrui He*
+
+1. **D-HYPR: Harnessing Neighborhood Modeling and Asymmetry Preservation for Digraph Representation Learning.**
+
+    *Honglu Zhou, Advith Chegu, Samuel S. Sohn, Zuohui Fu, Gerard de Melo, Mubbasir Kapadia*
+
+1. **Decoupled Hyperbolic Graph Attention Network for Modeling Substitutable and Complementary Item Relationships.**
+
+    *Zhiheng Zhou, Tao Wang, Linfang Hou, Xinyuan Zhou, Mian Ma, Zhuoye Ding*
+
+1. **Robust Node Classification on Graphs: Jointly from Bayesian Label Transition and Topology-based Label Propagation.**
+
+    *Jun Zhuang, Mohammad Al Hasan*
+
+1. **Tiger: Transferable Interest Graph Embedding for Domain-Level Zero-Shot Recommendation.**
+
+    *Jianhuan Zhuo, Jianxun Lian, Lanling Xu, Ming Gong, Linjun Shou, Daxin Jiang, Xing Xie, Yinliang Yue*
+
+1. **Efficient and Effective SPARQL Autocompletion on Very Large Knowledge Graphs.**
+
+    *Hannah Bast, Johannes Kalmbach, Theresa Klumpp, Florian Kramer, Niklas Schnelle*
+
+1. **Graph Neural Networks Pretraining Through Inherent Supervision for Molecular Property Prediction.**
+
+    *Roy Benjamin, Uriel Singer, Kira Radinsky*
+
+1. **GIFT: Graph-guIded Feature Transfer for Cold-Start Video Click-Through Rate Prediction.**
+
+    *Yi Cao, Sihao Hu, Yu Gong, Zhao Li, Yazheng Yang, Qingwen Liu, Shouling Ji*
+
+1. **DuETA: Traffic Congestion Propagation Pattern Modeling via Efficient Graph Learning for ETA Prediction at Baidu Maps.**
+
+    *Jizhou Huang, Zhengjie Huang, Xiaomin Fang, Shikun Feng, Xuyi Chen, Jiaxiang Liu, Haitao Yuan, Haifeng Wang*
+
+1. **PlatoGL: Effective and Scalable Deep Graph Learning System for Graph-enhanced Real-Time Recommendation.**
+
+    *Dandan Lin, Shijie Sun, Jingtao Ding, Xuehan Ke, Hao Gu, Xing Huang, Chonggang Song, Xuri Zhang, Lingling Yi, Jie Wen, Chuan Chen*
+
+1. **BRIGHT - Graph Neural Networks in Real-time Fraud Detection.**
+
+    *Mingxuan Lu, Zhichao Han, Susie Xi Rao, Zitao Zhang, Yang Zhao, Yinan Shan, Ramesh Raghunathan, Ce Zhang, Jiawei Jiang*
+
+1. **Temporal and Heterogeneous Graph Neural Network for Financial Time Series Prediction.**
+
+    *Sheng Xiang, Dawei Cheng, Chencheng Shang, Ying Zhang, Yuqi Liang*
+
+1. **Graph-based Weakly Supervised Framework for Semantic Relevance Learning in E-commerce.**
+
+    *Zhiyuan Zeng, Yuzhi Huang, Tianshu Wu, Hongbo Deng, Jian Xu, Bo Zheng*
+
+1. **Cross-Domain Product Search with Knowledge Graph.**
+
+    *Rui Zhu, Yiming Zhao, Wei Qu, Zhongyi Liu, Chenliang Li*
+
+1. **Interpretability of BERT Latent Space through Knowledge Graphs.**
+
+    *Vito Walter Anelli, Giovanni Maria Biancofiore, Alessandro De Bellis, Tommaso Di Noia, Eugenio Di Sciascio*
+
+1. **CS-MLGCN: Multiplex Graph Convolutional Networks for Community Search in Multiplex Networks.**
+
+    *Ali Behrouz, Farnoosh Hashemi*
+
+1. **Scalable Graph Representation Learning via Locality-Sensitive Hashing.**
+
+    *Xiusi Chen, Jyun-Yu Jiang, Wei Wang*
+
+1. **On Positional and Structural Node Features for Graph Neural Networks on Non-attributed Graphs.**
+
+    *Hejie Cui, Zijie Lu, Pan Li, Carl Yang*
+
+1. **Adaptive Graph Spatial-Temporal Transformer Network for Traffic Forecasting.**
+
+    *Aosong Feng, Leandros Tassiulas*
+
+1. **Subspace Co-clustering with Two-Way Graph Convolution.**
+
+    *Chakib Fettal, Lazhar Labiod, Mohamed Nadif*
+
+1. **OpenHGNN: An Open Source Toolkit for Heterogeneous Graph Neural Network.**
+
+    *Hui Han, Tianyu Zhao, Cheng Yang, Hongyi Zhang, Yaoqi Liu, Xiao Wang, Chuan Shi*
+
+1. **AMinerGNN: Heterogeneous Graph Neural Network for Paper Click-through Rate Prediction with Fusion Query.**
+
+    *Zepeng Huai, Zhe Wang, Yifan Zhu, Peng Zhang*
+
+1. **LGP: Few-Shot Class-Evolutionary Learning on Dynamic Graphs.**
+
+    *Tiancheng Huang, Feng Zhao, Donglin Wang*
+
+1. **RealGraphGPU: A High-Performance GPU-Based Graph Engine toward Large-Scale Real-World Network Analysis.**
+
+    *Myung-Hwan Jang, Yun-Yong Ko, Dongkyu Jeong, Jeong-Min Park, Sang-Wook Kim*
+
+1. **GReS: Graphical Cross-domain Recommendation for Supply Chain Platform.**
+
+    *Zhiwen Jing, Ziliang Zhao, Yang Feng, Xiaochen Ma, Nan Wu, Shengqiao Kang, Cheng Yang, Yujia Zhang, Hao Guo*
+
+1. **Commonsense Knowledge Base Completion with Relational Graph Attention Network and Pre-trained Language Model.**
+
+    *Jinhao Ju, Deqing Yang, Jingping Liu*
+
+1. **Models and Benchmarks for Representation Learning of Partially Observed Subgraphs.**
+
+    *Dongkwan Kim, Jiho Jin, Jaimeen Ahn, Alice Oh*
+
+1. **Bootstrapped Knowledge Graph Embedding based on Neighbor Expansion.**
+
+    *Jun Seon Kim, Seong-Jin Ahn, Myoung Ho Kim*
+
+1. **Debiasing Neighbor Aggregation for Graph Neural Network in Recommender Systems.**
+
+    *Minseok Kim, Jinoh Oh, Jaeyoung Do, Sungjin Lee*
+
+1. **Dual-Augment Graph Neural Network for Fraud Detection.**
+
+    *Qiutong Li, Yanshen He, Cong Xu, Feng Wu, Jianliang Gao, Zhao Li*
+
+1. **SmartQuery: An Active Learning Framework for Graph Neural Networks through Hybrid Uncertainty Reduction.**
+
+    *Xiaoting Li, Yuhang Wu, Vineeth Rakesh, Yusan Lin, Hao Yang, Fei Wang*
+
+1. **Heterogeneous Hypergraph Neural Network for Friend Recommendation with Human Mobility.**
+
+    *Yongkang Li, Zipei Fan, Jixiao Zhang, Dengheng Shi, Tianqi Xu, Du Yin, Jinliang Deng, Xuan Song*
+
+1. **Embedding Global and Local Influences for Dynamic Graphs.**
+
+    *Meng Liu, Jiaming Wu, Yong Liu*
+
+1. **Memory Augmented Graph Learning Networks for Multivariate Time Series Forecasting.**
+
+    *Xiangyue Liu, Xinqi Lyu, Xiangchi Zhang, Jianliang Gao, Jiamin Chen*
+
+1. **Sampling Enclosing Subgraphs for Link Prediction.**
+
+    *Paul Louis, Shweta Ann Jacob, Amirali Salehi-Abari*
+
+1. **Urban Region Profiling via Multi-Graph Representation Learning.**
+
+    *Yan Luo, Fu-Lai Chung, Kai Chen*
+
+1. **Improving Graph-based Document-Level Relation Extraction Model with Novel Graph Structure.**
+
+    *Seongsik Park, Dongkeun Yoon, Harksoo Kim*
+
+1. **GRETEL: Graph Counterfactual Explanation Evaluation Framework.**
+
+    *Mario Alfonso Prado-Romero, Giovanni Stilo*
+
+1. **Do Graph Neural Networks Build Fair User Models? Assessing Disparate Impact and Mistreatment in Behavioural User Profiling.**
+
+    *Erasmo Purificato, Ludovico Boratto, Ernesto William De Luca*
+
+1. **Explainable Graph-based Fraud Detection via Neural Meta-graph Search.**
+
+    *Zidi Qin, Yang Liu, Qing He, Xiang Ao*
+
+1. **A Model-Centric Explainer for Graph Neural Network based Node Classification.**
+
+    *Sayan Saha, Monidipa Das, Sanghamitra Bandyopadhyay*
+
+1. **A Graph-based Spatiotemporal Model for Energy Markets.**
+
+    *Swati Sharma, Srinivasan Iyengar, Shun Zheng, Kshitij Kapoor, Wei Cao, Jiang Bian, Shivkumar Kalyanaraman, John Lemmon*
+
+1. **ST-GAT: A Spatio-Temporal Graph Attention Network for Accurate Traffic Speed Prediction.**
+
+    *Junho Song, Jiwon Son, Dong-hyuk Seo, Kyungsik Han, Namhyuk Kim, Sang-Wook Kim*
+
+1. **Multi-Aspect Embedding of Dynamic Graphs.**
+
+    *Aimin Sun, Zhiguo Gong*
+
+1. **Leveraging the Graph Structure of Neural Network Training Dynamics.**
+
+    *Fatemeh Vahedian, Ruiyu Li, Puja Trivedi, Di Jin, Danai Koutra*
+
+1. **Efficiently Answering Minimum Reachable Label Set Queries in Edge-Labeled Graphs.**
+
+    *Yanping Wu, Renjie Sun, Chen Chen, Xiaoyang Wang, Xianming Fu*
+
+1. **Calibrate Automated Graph Neural Network via Hyperparameter Uncertainty.**
+
+    *Xueying Yang, Jiamian Wang, Xujiang Zhao, Sheng Li, Zhiqiang Tao*
+
+1. **An Enhanced Gated Graph Neural Network for E-commerce Recommendation.**
+
+    *Jihai Zhang, Fangquan Lin, Cheng Yang, Ziqiang Cui*
+
+1. **Graph Representation Learning via Adaptive Multi-layer Neighborhood Diffusion Contrast.**
+
+    *Jijie Zhang, Yan Yang, Yong Liu, Meng Han, Shaowei Yin*
+
+1. **Deep Contrastive Multiview Network Embedding.**
+
+    *Mengqi Zhang, Yanqiao Zhu, Qiang Liu, Shu Wu, Liang Wang*
+
+1. **SuGeR: A Subgraph-based Graph Convolutional Network Method for Bundle Recommendation.**
+
+    *Zhenning Zhang, Boxin Du, Hanghang Tong*
+
+1. **KSG: Knowledge and Skill Graph.**
+
+    *Feng Zhao, Ziqi Zhang, Donglin Wang*
+
+1. **Spherical Graph Embedding for Item Retrieval in Recommendation System.**
+
+    *Wenqiao Zhu, Yesheng Xu, Xin Huang, Qiyang Min, Xun Zhou*
+
+1. **GALGO: Scalable Graph Analytics with a Parallel DBMS.**
+
+    *Wellington Cabrera, Xiantian Zhou, Ladjel Bellatreche, Carlos Ordonez*
+
+1. **DASH: An Agile Knowledge Graph System Disentangling Demands, Algorithms, Data Resources, and Humans.**
+
+    *Shaowei Chen, Haoran Wang, Jie Liu, Jiahui Wu*
+
+1. **A GPU-based Graph Pattern Mining System.**
+
+    *Lin Hu, Lei Zou*
+
+1. **Flurry: A Fast Framework for Provenance Graph Generation for Representation Learning.**
+
+    *Maya Kapoor, Joshua Melton, Michael Ridenhour, Thomas Moyer, Siddharth Krishnan*
+
+1. **Approximate and Interactive Processing of Aggregate Queries on Knowledge Graphs: A Demonstration.**
+
+    *Yuxiang Wang, Arijit Khan, Xiaoliang Xu, Shuzhan Ye, Shihuang Pan, Yuhan Zhou*
+
+1. **gCBO: A Cost-based Optimizer for Graph Databases.**
+
+    *Linglin Yang, Lei Yang, Yue Pang, Lei Zou*
+
+1. **ExeKG: Executable Knowledge Graph System for User-friendly Data Analytics.**
+
+    *Zhuoxun Zheng, Baifan Zhou, Dongzhuoran Zhou, Ahmet Soylu, Evgeny Kharlamov*
+
+1. **ScheRe: Schema Reshaping for Enhancing Knowledge Graph Construction.**
+
+    *Dongzhuoran Zhou, Baifan Zhou, Zhuoxun Zheng, Ahmet Soylu, Ognjen Savkovic, Egor V. Kostylev, Evgeny Kharlamov*
+
+1. **Fifty Shades of Pink: Understanding Color in e-commerce using Knowledge Graphs.**
+
+    *Lizzie Liang, Sneha Kamath, Petar Ristoski, Qunzhi Zhou, Zhe Wu*
+
+1. **Shoe Size Resolution in Search Queries and Product Listings using Knowledge Graphs.**
+
+    *Petar Ristoski, Aritra Mandal, Simon Becker, Anu Mandalam, Ethan Hart, Sanjika Hewavitharana, Zhe Wu, Qunzhi Zhou*
+
+1. **Geographical Address Models in the Indian e-Commerce.**
+
+    *Ravindra Babu Tallamraju*
+
+1. **Executable Knowledge Graph for Transparent Machine Learning in Welding Monitoring at Bosch.**
+
+    *Zhuoxun Zheng, Baifan Zhou, Dongzhuoran Zhou, Ahmet Soylu, Evgeny Kharlamov*
+
+1. **Causal Relationship over Knowledge Graphs.**
+
+    *Hao Huang*
+
+1. **Graph-based Management and Mining of Blockchain Data.**
+
+    *Arijit Khan, Cuneyt Gurcan Akcora*
+
+1. **Mining of Real-world Hypergraphs: Patterns, Tools, and Generators.**
+
+    *Geon Lee, Jaemin Yoo, Kijung Shin*
+
+1. **TrustLOG: The First Workshop on Trustworthy Learning on Graphs.**
+
+    *Jian Kang, Shuaicheng Zhang, Bo Li, Jingrui He, Jian Pei, Dawei Zhou*
+
+1. **The 1st International Workshop on Federated Learning with Graph Data (FedGraph).**
+
+    *Carl Yang, Xiaoxiao Li, Nathalie Baracaldo, Neil Shah, Chaoyang He, Lingjuan Lyu, Lichao Sun, Salman Avestimehr*
 
 ### [AAAI-2022](#contents)
 1. **SVGA-Net: Sparse Voxel-Graph Attention Network for 3D Object Detection from Point Clouds**
