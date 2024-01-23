@@ -853,8 +853,38 @@ We also create the reading lists for [2022](./Graph-Learning-2022.md) and [2023]
 1. **Physics-Informed Graph Neural Networks for Water Distribution Systems**
 
     *Ashraf, Inaam\*; Strotherm, Janine; Hermes, Luca; Hammer, Barbara*
+   
+1. **PreRoutGNN for Timing Prediction with Order Preserving Partition: Global Circuit Pre-training, Local Signal Delay Learning and Attentional Cell Modeling**
 
+    *Zhong, Ruizhe\*; Ye, Junjie; Tang, Zhentao; Kai, Shixiong; Yuan, Mingxuan; Hao, Jianye; Yan, Junchi*
 
+1. **DGA-GNN: Dynamic Grouping Aggregation GNN for Fraud Detection**
+
+    *Duan, Mingjiang; Zheng, Tongya; Gao, Yang; Wang, Gang; Feng, Zunlei\*; Wang, Xinyu*
+
+1. **AdapterGNN: Parameter-Efficient Fine-Tuning Improves Generalization in GNNs**
+
+    *Li, Shengrui; Han, Xueting\*; Bai, Jing*
+
+1. **DR-Label: Label Deconstruction and Reconstruction of GNN Models for Catalysis Systems**
+
+    *Wang, Bowen\*; Liang, Chen; Wang, Jiaze; Qiu, Jiezhong; Liu, Furui; HAO, SHAOGANG; Li, Dong; Chen, Guangyong; Zou, Xiaolong; Heng, Pheng- Ann*
+
+1. **Prot2Text: Multimodal Protein’s Function Generation with GNNs and Transformers**
+
+    *Abdine, Hadi\*; Chatzianastasis, Michail; Bouyioukos, Costas; Vazirgiannis, Michalis*
+
+1. **Improving GNN Calibration with Discriminative Ability: Insights and Strategies**
+
+    *Fang, Yujie; Li, Xin\*; Chen, QIanyu; Wang, Mingzhong*
+
+1. **Stratified GNN Explanations through Sufficient Expansion**
+
+    *Ji, Yuwen\*; Shi, Lei; liu, zhimeng; Wang, Ge*
+
+1. **Curriculum-Enhanced Residual Soft An-Isotropic Normalization for Over-smoothness in Deep GNNs**
+
+    *Li, Jin; Zhang, Qirong; Xu, Shuling; Chen, Xinlong; Guo, Longkun l; Fu, Yang-Geng\**
 
 ### [IJCAI-2023](#contents)
 1. **Self-supervised Graph Disentangled Networks for Review-based Recommendation**
