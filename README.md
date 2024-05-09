@@ -5,7 +5,7 @@ I scanned over the accepted paper lists of top machine learning and data mining 
 We also create the reading lists for [2022](./Graph-Learning-2022.md) and [2023](./Graph-Learning-2023.md) for convenience. 
 
 ## [Contents](#contents)
-  - [AAAI-2024](#aaai-2024)
+  - [IJCAI-2024](#ijcai-2024) [ICML-2024](#icml-2024) [SIGIR-2024](#sigir-2024) [AAAI-2024](#aaai-2024) [ICLR-2024](#iclr-2024) [WSDM-2024](#wsdm-2024) [WWW-2024](#www-2024) [ICDE-2024](#icde-2024) [SIGMOD-2024](#sigmod-2024)
   - [IJCAI-2023](#ijcai-2023) [ICML-2023](#icml-2023) [KDD-2023](#kdd-2023) [SIGIR-2023](#sigir-2023) [NeurIPS-2023](#neurips-2023) [CIKM-2023](#cikm-2023) [AAAI-2023](#aaai-2023) [ICLR-2023](#iclr-2023) [WSDM-2023](#wsdm-2023) [WWW-2023](#www-2023) [ICDE-2023](#icde-2023) [SIGMOD-2023](#sigmod-2023) 
   - [IJCAI-2022](#ijcai-2022) [ICML-2022](#icml-2022)  [KDD-2022](#kdd-2022) [SIGIR-2022](#sigir-2022) [NeurIPS-2022](#neurips-2022) [CIKM-2022](#cikm-2022) [AAAI-2022](#aaai-2022) [ICLR-2022](#iclr-2022) [WSDM-2022](#wsdm-2022) [WWW-2022](#www-2022) [ICDE-2022](#icde-2022) [SIGMOD-2022](#sigmod-2022)
 
