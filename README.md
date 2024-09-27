@@ -1,6 +1,10 @@
 # Graph Learning Reading List
 
-I scanned over the accepted paper lists of top machine learning and data mining conferences for interests in graph learning. If you are interested in dynamic (temporal) graph learning, please refer to [Dynamic (Temporal) Graph Learning Reading List](https://github.com/doujiang-zheng/Dynamic-Temporal-Graph-Learning-Reading-List). We also add a snippset tutorial [Parse Website](./ParseWebsite.md) to teach you **how to obtain the titles and authors from the official conference website**.
+I scanned over the accepted paper lists of top machine learning and data mining conferences for interests in graph learning. We also add a snippset tutorial [Parse Website](./ParseWebsite.md) to teach you **how to obtain the titles and authors from the official conference website**.
+
+- ## Recommended paper list
+  - [Dynamic (Temporal) Graph Learning Reading List](https://github.com/doujiang-zheng/Dynamic-Temporal-Graph-Learning-Reading-List)
+  - [Awesome-Human-Mobility-Science-Paper-List](https://github.com/Star607/Awesome-Human-Mobility-Science-Paper-List)
 
 We also create the reading lists for [2022](./Graph-Learning-2022.md) and [2023](./Graph-Learning-2023.md) for convenience. 
 
